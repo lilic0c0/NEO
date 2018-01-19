@@ -1,0 +1,5483 @@
+{
+	"TPDB-ROUTER-3316": {
+		"TPDB-ROUTER-4402": {
+			"CIDs": "HB10102116&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 1000
+		},
+		"TPDB-ROUTER-3021": {
+			"CIDs": "HB10102666&",
+			"traffic": 3451.36666667,
+			"utilization": 3.45136666667,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3022": {
+			"CIDs": "HB10102668&",
+			"traffic": 3497.63333333,
+			"utilization": 3.49763333333,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPDB-ROUTER-3315": {
+			"CIDs": "HB10101796&",
+			"traffic": 505,
+			"utilization": 5.05,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPDB-ROUTER-4402": {
+		"TPDB-ROUTER-3316": {
+			"CIDs": "HB10102116&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 100
+		},
+		"TPDB-ROUTER-3312": {
+			"CIDs": "HB10102115&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 100
+		}
+	},
+	"TPDB-ROUTER-3312": {
+		"TPDB-ROUTER-4402": {
+			"CIDs": "HB10102115&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 1000
+		},
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10102638&HB10102282&",
+			"traffic": 313.4,
+			"utilization": 0.1567,
+			"bw": 200000,
+			"metric": 10
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10102280&",
+			"traffic": 325.6,
+			"utilization": 0.3256,
+			"bw": 100000,
+			"metric": 10
+		},
+		"TPDB-ROUTER-3311": {
+			"CIDs": "HB10101789&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPDT-ROUTER-3012": {
+		"TYFO-ROUTER-3016": {
+			"CIDs": "G20012&G20014&G20029&",
+			"traffic": 653.5,
+			"utilization": 0.544583333333,
+			"bw": 120000,
+			"metric": 140
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "223D-70954&223D-70955&",
+			"traffic": 34.4714285714,
+			"utilization": 0.172357142857,
+			"bw": 20000,
+			"metric": 170
+		},
+		"TPDT-ROUTER-3611": {
+			"CIDs": "HB10101990&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"PCPC-ROUTER-3202": {
+			"CIDs": "223D-70653&223D-99524&223D-90845B&223D-93032&223D-91659&223D-95872&223D-97474&",
+			"traffic": 444,
+			"utilization": 0.634285714286,
+			"bw": 70000,
+			"metric": 160
+		},
+		"SNUH-ROUTER-3202": {
+			"CIDs": "223D-99132&223D-91608&223D-70437&223D-91296&223D-97120B&297D-90117&",
+			"traffic": 1410.5,
+			"utilization": 2.35083333333,
+			"bw": 60000,
+			"metric": 160
+		},
+		"TPDB-ROUTER-3516": {
+			"CIDs": "HB10100662&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 110
+		},
+		"TPDB-ROUTER-3515": {
+			"CIDs": "HB10100656&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-4044": {
+			"CIDs": "HB10102244&HB10100718&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-4043": {
+			"CIDs": "HB10100691&HB10100690&",
+			"traffic": 0.5,
+			"utilization": 0.0025,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPDB-ROUTER-3311": {
+			"CIDs": "HB10102281&",
+			"traffic": 3005.16666667,
+			"utilization": 3.00516666667,
+			"bw": 100000,
+			"metric": 10
+		},
+		"TPDB-ROUTER-4202": {
+			"CIDs": "HB10102679&HB10102678&HB10102683&",
+			"traffic": 26.1666666667,
+			"utilization": 0.0872222222223,
+			"bw": 30000,
+			"metric": 100
+		},
+		"CLPY-ROUTER-3302": {
+			"CIDs": "223E-93310&223E-93426B&223E-93336&223E-93630&223E-93683&",
+			"traffic": 853.166666667,
+			"utilization": 1.70633333333,
+			"bw": 50000,
+			"metric": 160
+		},
+		"SHGS-ROUTER-3302": {
+			"CIDs": "223D-91407&223D-95863&",
+			"traffic": 113.333333333,
+			"utilization": 0.566666666665,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TPDB-ROUTER-3317": {
+			"CIDs": "HB10101802&HB10102119&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TTML-ROUTER-3302": {
+			"CIDs": "223E-93528&",
+			"traffic": 143.666666667,
+			"utilization": 1.43666666667,
+			"bw": 10000,
+			"metric": 160
+		},
+		"TPDT-ROUTER-4106": {
+			"CIDs": "HB10101353&HB10101352&HB10102075&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 30000,
+			"metric": 100
+		},
+		"KMKC-ROUTER-3302": {
+			"CIDs": "223E-93483&",
+			"traffic": 60,
+			"utilization": 0.6,
+			"bw": 10000,
+			"metric": 260
+		},
+		"TPDB-ROUTER-3318": {
+			"CIDs": "HB10101805&HB10102120&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		},
+		"HLCA-ROUTER-3302": {
+			"CIDs": "223E-93394&223E-93663&223E-93631&",
+			"traffic": 958.983333333,
+			"utilization": 3.19661111111,
+			"bw": 30000,
+			"metric": 160
+		},
+		"MLML-ROUTER-3302": {
+			"CIDs": "223E-93469&223E-93309&",
+			"traffic": 516.7,
+			"utilization": 2.5835,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TPDT-ROUTER-3308": {
+			"CIDs": "HB10101657&HB10102202&HB10101554&HB10101481&",
+			"traffic": 1527.52857143,
+			"utilization": 3.81882142858,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3301": {
+			"CIDs": "HB10101719&HB10102577&HB10100904&HB10102448&HB10102571&HB10100849&",
+			"traffic": 120.766666667,
+			"utilization": 0.201277777778,
+			"bw": 60000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-4103": {
+			"CIDs": "HB10101625&HB10101700&HB10102130&HB10100873&HB10102131&HB10101124&HB10100837&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 70000,
+			"metric": 100
+		},
+		"TPDB-ROUTER-4207": {
+			"CIDs": "HB10102093&HB10100864&",
+			"traffic": 21.7333333333,
+			"utilization": 0.108666666666,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3302": {
+			"CIDs": "HB10100798&HB10102572&HB10100874&HB10102573&",
+			"traffic": 53.7,
+			"utilization": 0.13425,
+			"bw": 40000,
+			"metric": 110
+		},
+		"SIPR-ROUTER-3302": {
+			"CIDs": "223D-90391&223D-95859&",
+			"traffic": 211.6,
+			"utilization": 1.058,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TPDT-ROUTER-4102": {
+			"CIDs": "HB10101341&HB10101786&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 200000,
+			"metric": 100
+		},
+		"SHMZ-ROUTER-3302": {
+			"CIDs": "223D-97472&223D-91504&",
+			"traffic": 647.75,
+			"utilization": 3.23875,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TPDB-ROUTER-4208": {
+			"CIDs": "HB10101938&HB10100933&HB10100929&",
+			"traffic": 332.366666667,
+			"utilization": 1.10788888889,
+			"bw": 30000,
+			"metric": 100
+		},
+		"RTKZ-ROUTER-3312": {
+			"CIDs": "223E-93447&223E-93678&223E-93581&",
+			"traffic": 242.183333333,
+			"utilization": 0.807277777777,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TPDB-ROUTER-3312": {
+			"CIDs": "HB10102638&HB10102282&",
+			"traffic": 2439.13333333,
+			"utilization": 1.21956666667,
+			"bw": 200000,
+			"metric": 10
+		},
+		"TPDT-ROUTER-3307": {
+			"CIDs": "HB10101553&HB10102201&HB10101656&HB10101480&",
+			"traffic": 1395.46190476,
+			"utilization": 3.4886547619,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-4104": {
+			"CIDs": "HB10101125&HB10102134&HB10101100&HB10101126&HB10101642&HB10102081&HB10102135&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 70000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-4105": {
+			"CIDs": "HB10101350&HB10101351&HB10101708&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 30000,
+			"metric": 100
+		},
+		"TPN2-ROUTER-3302": {
+			"CIDs": "223D-91660&223D-93368&223D-93018&223D-70439&223D-97469&",
+			"traffic": 463.333333333,
+			"utilization": 0.926666666666,
+			"bw": 50000,
+			"metric": 160
+		},
+		"SCZS-ROUTER-3202": {
+			"CIDs": "G20013&G20035&",
+			"traffic": 1447.87777778,
+			"utilization": 1.80984722223,
+			"bw": 80000,
+			"metric": 160
+		},
+		"TPE4-ROUTER-3202": {
+			"CIDs": "223D-90844B&223D-92310&223D-97084&223D-91703&223D-70655&223D-93016&223D-99523&",
+			"traffic": 424,
+			"utilization": 0.605714285714,
+			"bw": 70000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "G20004&G20019&G20021&",
+			"traffic": 1759.46785714,
+			"utilization": 1.46622321428,
+			"bw": 120000,
+			"metric": 140
+		},
+		"TCHN-ROUTER-3012": {
+			"CIDs": "G20008&G20002&G20027&G20009&",
+			"traffic": 1631.5452381,
+			"utilization": 1.01971577381,
+			"bw": 160000,
+			"metric": 140
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10100636&HB10100712&HB10100650&",
+			"traffic": 25.3523809524,
+			"utilization": 0.21126984127,
+			"bw": 12000,
+			"metric": 10
+		},
+		"TPDT-ROUTER-3022": {
+			"CIDs": "HB10101758&HB10102695&HB10102693&HB10102817&",
+			"traffic": 2705.45984016,
+			"utilization": 0.67636496004,
+			"bw": 400000,
+			"metric": 10
+		}
+	},
+	"TYFO-ROUTER-3016": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "G20012&G20014&G20029&",
+			"traffic": 750.5,
+			"utilization": 0.625416666667,
+			"bw": 120000,
+			"metric": 140
+		},
+		"TYFO-ROUTER-3015": {
+			"CIDs": "HB10200508&",
+			"traffic": 98.2920634921,
+			"utilization": 0.982920634921,
+			"bw": 10000,
+			"metric": 10
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "33E-91068&",
+			"traffic": 55.4714285714,
+			"utilization": 0.0554714285714,
+			"bw": 100000,
+			"metric": 230
+		},
+		"PCPC-ROUTER-3202": {
+			"CIDs": "G20031&",
+			"traffic": 2090.5,
+			"utilization": 5.22625,
+			"bw": 40000,
+			"metric": 100
+		},
+		"SNUH-ROUTER-3202": {
+			"CIDs": "33E-90408&33E-90605B&33E-90749&33E-90662&33E-91026&",
+			"traffic": 1476.33333333,
+			"utilization": 2.95266666666,
+			"bw": 50000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3611": {
+			"CIDs": "HB10200520&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"CLPY-ROUTER-3302": {
+			"CIDs": "33D-95648&33D-95115&33D-93244&33D-93803&33D-95495&33D-94059&33D-94188&",
+			"traffic": 4115.5,
+			"utilization": 5.87928571429,
+			"bw": 70000,
+			"metric": 100
+		},
+		"SHGS-ROUTER-3302": {
+			"CIDs": "33E-90641B&",
+			"traffic": 366.5,
+			"utilization": 3.665,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3302": {
+			"CIDs": "HB10200518&",
+			"traffic": 1736,
+			"utilization": 1.736,
+			"bw": 100000,
+			"metric": 100
+		},
+		"MLML-ROUTER-3302": {
+			"CIDs": "33E-90642B&33E-91024&33E-90750&",
+			"traffic": 1669.3,
+			"utilization": 5.56433333333,
+			"bw": 30000,
+			"metric": 110
+		},
+		"SIPR-ROUTER-3302": {
+			"CIDs": "33E-90608B&33E-90420&",
+			"traffic": 1227.4,
+			"utilization": 6.137,
+			"bw": 20000,
+			"metric": 110
+		},
+		"SHGS-ROUTER-3301": {
+			"CIDs": "33E-90729&",
+			"traffic": 441,
+			"utilization": 4.41,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3301": {
+			"CIDs": "HB10200514&",
+			"traffic": 1788.5,
+			"utilization": 1.7885,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3306": {
+			"CIDs": "HB10200599&HB10200610&HB10200577&HB10200609&HB10200578&HB10200573&HB10200623&HB10200574&",
+			"traffic": 1663,
+			"utilization": 0.978235294118,
+			"bw": 170000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3305": {
+			"CIDs": "HB10200575&HB10200572&HB10200571&HB10200596&HB10200598&HB10200597&HB10200576&",
+			"traffic": 1864.33333333,
+			"utilization": 2.66333333333,
+			"bw": 70000,
+			"metric": 100
+		},
+		"SCZS-ROUTER-3202": {
+			"CIDs": "33E-91040&33E-90777&33E-90731&33E-90394&33E-90511B&33E-90752&33E-90607B&",
+			"traffic": 1920.04444444,
+			"utilization": 2.74292063491,
+			"bw": 70000,
+			"metric": 110
+		},
+		"TPE4-ROUTER-3202": {
+			"CIDs": "HB10200550&G20017&",
+			"traffic": 2585.66666667,
+			"utilization": 3.23208333334,
+			"bw": 80000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-4032": {
+			"CIDs": "HB10200430&HB10200432&HB10200431&HB10200429&",
+			"traffic": 74.1666666667,
+			"utilization": 0.185416666667,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-4031": {
+			"CIDs": "HB10200492&HB10200494&HB10200493&HB10200291&",
+			"traffic": 191.333333333,
+			"utilization": 0.478333333332,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TNE1-ROUTER-3012": {
+			"CIDs": "G20056&",
+			"traffic": 2581.14120879,
+			"utilization": 2.58114120879,
+			"bw": 100000,
+			"metric": 190
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "G20024&",
+			"traffic": 698.217857143,
+			"utilization": 1.74554464286,
+			"bw": 40000,
+			"metric": 190
+		},
+		"TCHN-ROUTER-3012": {
+			"CIDs": "G20037&G20023&",
+			"traffic": 1187.46190476,
+			"utilization": 1.48432738095,
+			"bw": 80000,
+			"metric": 190
+		},
+		"SKC1-ROUTER-3012": {
+			"CIDs": "G20054&",
+			"traffic": 1941.65665446,
+			"utilization": 1.94165665446,
+			"bw": 100000,
+			"metric": 190
+		}
+	},
+	"PCPD-ROUTER-3212": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223D-70954&223D-70955&",
+			"traffic": 250.285714286,
+			"utilization": 1.25142857143,
+			"bw": 20000,
+			"metric": 270
+		},
+		"PCPD-ROUTER-3211": {
+			"CIDs": "HB10900278&",
+			"traffic": 639.5,
+			"utilization": 0.6395,
+			"bw": 100000,
+			"metric": 10
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "33E-91068&",
+			"traffic": 1882.33333333,
+			"utilization": 1.88233333333,
+			"bw": 100000,
+			"metric": 230
+		},
+		"SNUH-ROUTER-3302": {
+			"CIDs": "295D-96318&295D-96317&",
+			"traffic": 7.5,
+			"utilization": 0.0375,
+			"bw": 20000,
+			"metric": 300
+		},
+		"SHGS-ROUTER-3302": {
+			"CIDs": "295D-96521&295D-96522&",
+			"traffic": 77.5,
+			"utilization": 0.3875,
+			"bw": 20000,
+			"metric": 270
+		},
+		"SIPR-ROUTER-3302": {
+			"CIDs": "295D-96526&295D-96525&",
+			"traffic": 100,
+			"utilization": 0.5,
+			"bw": 20000,
+			"metric": 270
+		},
+		"SHMZ-ROUTER-3302": {
+			"CIDs": "295D-96330&",
+			"traffic": 456.285714286,
+			"utilization": 4.56285714286,
+			"bw": 10000,
+			"metric": 110
+		},
+		"PCPD-ROUTER-4001": {
+			"CIDs": "HB11800005&",
+			"traffic": 67.9,
+			"utilization": 0.0679,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPN2-ROUTER-3302": {
+			"CIDs": "295D-96325&295D-96327&295D-96328&295D-96326&295D-96324&",
+			"traffic": 880.869047619,
+			"utilization": 1.76173809524,
+			"bw": 50000,
+			"metric": 110
+		},
+		"PCPC-ROUTER-3302": {
+			"CIDs": "295D-96334&295D-96333&",
+			"traffic": 609,
+			"utilization": 3.045,
+			"bw": 20000,
+			"metric": 320
+		},
+		"TPE4-ROUTER-3202": {
+			"CIDs": "295D-96338&295D-96337&",
+			"traffic": 1809.33333333,
+			"utilization": 9.04666666665,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3012": {
+			"CIDs": "295E-90064&",
+			"traffic": 2409.8,
+			"utilization": 2.4098,
+			"bw": 100000,
+			"metric": 140
+		},
+		"TCHN-ROUTER-3012": {
+			"CIDs": "295E-90059&",
+			"traffic": 3484.25595238,
+			"utilization": 3.48425595238,
+			"bw": 100000,
+			"metric": 160
+		}
+	},
+	"TPDT-ROUTER-3611": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101990&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10101989&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"PCPC-ROUTER-3202": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223D-70653&223D-99524&223D-90845B&223D-93032&223D-91659&223D-95872&223D-97474&",
+			"traffic": 756.349175824,
+			"utilization": 1.08049882261,
+			"bw": 70000,
+			"metric": 160
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "G20031&",
+			"traffic": 825.349175824,
+			"utilization": 2.06337293956,
+			"bw": 40000,
+			"metric": 110
+		},
+		"PCPC-ROUTER-3201": {
+			"CIDs": "HB10900067&",
+			"traffic": 4,
+			"utilization": 0.0571428571429,
+			"bw": 7000,
+			"metric": 10
+		},
+		"TPE4-ROUTER-3202": {
+			"CIDs": "227D-95217&227D-96372&",
+			"traffic": 653.756318681,
+			"utilization": 3.26878159341,
+			"bw": 20000,
+			"metric": 60
+		},
+		"SNUH-ROUTER-3202": {
+			"CIDs": "295D-95077&",
+			"traffic": 266.5,
+			"utilization": 2.665,
+			"bw": 10000,
+			"metric": 60
+		},
+		"PCPC-ROUTER-3301": {
+			"CIDs": "HB10900224&HB10900262&HB10900236&HB10900164&HB10900270&HB10900190&",
+			"traffic": 2287.83333333,
+			"utilization": 3.81305555555,
+			"bw": 60000,
+			"metric": 100
+		},
+		"PCPC-ROUTER-3302": {
+			"CIDs": "HB10900225&HB10900271&HB10900174&HB10900143&HB10900263&HB10900237&",
+			"traffic": 1158,
+			"utilization": 1.93,
+			"bw": 60000,
+			"metric": 100
+		}
+	},
+	"SNUH-ROUTER-3202": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223D-99132&223D-91608&223D-70437&223D-91296&223D-97120B&297D-90117&",
+			"traffic": 667.7,
+			"utilization": 1.11283333333,
+			"bw": 60000,
+			"metric": 160
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "33E-90408&33E-90605B&33E-90749&33E-90662&33E-91026&",
+			"traffic": 733.2,
+			"utilization": 1.4664,
+			"bw": 50000,
+			"metric": 110
+		},
+		"PCPC-ROUTER-3202": {
+			"CIDs": "295D-95077&",
+			"traffic": 336,
+			"utilization": 3.36,
+			"bw": 10000,
+			"metric": 60
+		},
+		"SNUH-ROUTER-3302": {
+			"CIDs": "HB10300240&HB10300132&HB10300270&HB10300186&",
+			"traffic": 1685,
+			"utilization": 4.2125,
+			"bw": 40000,
+			"metric": 100
+		},
+		"SNUH-ROUTER-3301": {
+			"CIDs": "HB10300285&HB10300239&HB10300143&HB10300187&",
+			"traffic": 1468.33333333,
+			"utilization": 3.67083333332,
+			"bw": 40000,
+			"metric": 100
+		},
+		"SNUH-ROUTER-3201": {
+			"CIDs": "HB10300108&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 4000,
+			"metric": 10
+		}
+	},
+	"TPDB-ROUTER-3516": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10100662&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10100661&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 110
+		},
+		"TPDB-ROUTER-3515": {
+			"CIDs": "HB10100431&HB10100427&HB10100426&HB10100425&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 400,
+			"metric": 1
+		}
+	},
+	"TPDB-ROUTER-3515": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10100656&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10100651&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 110
+		},
+		"TPDB-ROUTER-3516": {
+			"CIDs": "HB10100431&HB10100427&HB10100426&HB10100425&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 400,
+			"metric": 1
+		}
+	},
+	"TPDT-ROUTER-4044": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10102244&HB10100718&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10100692&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPDT-ROUTER-4043": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10100691&HB10100690&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10100606&HB10100607&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		}
+	},
+	"TPDB-ROUTER-3311": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10102281&",
+			"traffic": 5607.03333333,
+			"utilization": 5.60703333333,
+			"bw": 100000,
+			"metric": 10
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10102327&HB10102279&",
+			"traffic": 5602.96666667,
+			"utilization": 2.80148333334,
+			"bw": 200000,
+			"metric": 10
+		},
+		"TPDB-ROUTER-3312": {
+			"CIDs": "HB10101789&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPDB-ROUTER-4202": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10102679&HB10102678&HB10102683&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 30000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10102677&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"CLPY-ROUTER-3302": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223E-93310&223E-93426B&223E-93336&223E-93630&223E-93683&",
+			"traffic": 125.285714286,
+			"utilization": 0.250571428572,
+			"bw": 50000,
+			"metric": 160
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "33D-95648&33D-95115&33D-93244&33D-93803&33D-95495&33D-94059&33D-94188&",
+			"traffic": 661.920634921,
+			"utilization": 0.94560090703,
+			"bw": 70000,
+			"metric": 100
+		},
+		"CLPY-ROUTER-3301": {
+			"CIDs": "HB10500050&",
+			"traffic": 76.6349206349,
+			"utilization": 0.766349206349,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"SHGS-ROUTER-3302": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223D-91407&223D-95863&",
+			"traffic": 24.6666666667,
+			"utilization": 0.123333333333,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TYFO-ROUTER-3015": {
+			"CIDs": "33E-90435&",
+			"traffic": 60,
+			"utilization": 0.6,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "33E-90641B&",
+			"traffic": 63,
+			"utilization": 0.63,
+			"bw": 10000,
+			"metric": 100
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "295D-96521&295D-96522&",
+			"traffic": 3,
+			"utilization": 0.015,
+			"bw": 20000,
+			"metric": 270
+		},
+		"SHGS-ROUTER-3301": {
+			"CIDs": "HB11300065&",
+			"traffic": 60.6666666667,
+			"utilization": 0.606666666667,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"TPDB-ROUTER-3317": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101802&HB10102119&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10101801&HB10102117&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPDB-ROUTER-3318": {
+			"CIDs": "HB10101803&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TTML-ROUTER-3302": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223E-93528&",
+			"traffic": 80.25,
+			"utilization": 0.8025,
+			"bw": 10000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3012": {
+			"CIDs": "72E-96196&",
+			"traffic": 84.5833333333,
+			"utilization": 0.845833333333,
+			"bw": 10000,
+			"metric": 160
+		},
+		"TTML-ROUTER-3301": {
+			"CIDs": "HB30900031&",
+			"traffic": 16.6666666667,
+			"utilization": 0.166666666667,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"TPDT-ROUTER-4106": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101353&HB10101352&HB10102075&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 30000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10101348&HB10102074&HB10101349&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 30000,
+			"metric": 100
+		}
+	},
+	"KMKC-ROUTER-3302": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223E-93483&",
+			"traffic": 23,
+			"utilization": 0.23,
+			"bw": 10000,
+			"metric": 260
+		},
+		"SKC1-ROUTER-3012": {
+			"CIDs": "72E-95722&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 2000
+		},
+		"KMKC-ROUTER-3301": {
+			"CIDs": "HB30800023&",
+			"traffic": 59,
+			"utilization": 0.59,
+			"bw": 10000,
+			"metric": 10
+		},
+		"KMKC-ROUTER-3303": {
+			"CIDs": "HB30800026&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 1000
+		}
+	},
+	"TPDB-ROUTER-3318": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101805&HB10102120&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10101804&HB10102118&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPDB-ROUTER-3317": {
+			"CIDs": "HB10101803&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"HLCA-ROUTER-3302": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223E-93394&223E-93663&223E-93631&",
+			"traffic": 115,
+			"utilization": 0.383333333333,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TPE4-ROUTER-3202": {
+			"CIDs": "227E-92051&",
+			"traffic": 49.6666666667,
+			"utilization": 0.496666666667,
+			"bw": 10000,
+			"metric": 100
+		},
+		"HLCA-ROUTER-3301": {
+			"CIDs": "HB10600134&",
+			"traffic": 22.6666666667,
+			"utilization": 0.226666666667,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"MLML-ROUTER-3302": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223E-93469&223E-93309&",
+			"traffic": 38,
+			"utilization": 0.19,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "33E-90642B&33E-91024&33E-90750&",
+			"traffic": 210,
+			"utilization": 0.7,
+			"bw": 30000,
+			"metric": 100
+		},
+		"MLML-ROUTER-3301": {
+			"CIDs": "HB21200135&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 1000
+		}
+	},
+	"TPDT-ROUTER-3308": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101657&HB10102202&HB10101554&HB10101481&",
+			"traffic": 712.3,
+			"utilization": 1.78075,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10101479&HB10101655&HB10101552&HB10102200&",
+			"traffic": 771.7,
+			"utilization": 1.92925,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3307": {
+			"CIDs": "HB10101555&",
+			"traffic": 31,
+			"utilization": 0.31,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPDT-ROUTER-3301": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101719&HB10102577&HB10100904&HB10102448&HB10102571&HB10100849&",
+			"traffic": 2002.56666667,
+			"utilization": 3.33761111112,
+			"bw": 60000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10102566&HB10102567&HB10100848&HB10102447&HB10101720&HB10100795&",
+			"traffic": 2042.43333333,
+			"utilization": 3.40405555555,
+			"bw": 60000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-3302": {
+			"CIDs": "HB10100878&",
+			"traffic": 2,
+			"utilization": 0.02,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPDT-ROUTER-4103": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101625&HB10101700&HB10102130&HB10100873&HB10102131&HB10101124&HB10100837&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 70000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10102128&HB10100858&HB10101614&HB10102129&HB10100835&HB10101699&HB10101119&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 70000,
+			"metric": 100
+		}
+	},
+	"TPDB-ROUTER-4207": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10102093&HB10100864&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10102092&HB10100863&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		}
+	},
+	"TPDT-ROUTER-3302": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10100798&HB10102572&HB10100874&HB10102573&",
+			"traffic": 58.9666666667,
+			"utilization": 0.147416666667,
+			"bw": 40000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10102568&HB10100903&HB10102569&HB10100872&",
+			"traffic": 63.0333333333,
+			"utilization": 0.157583333333,
+			"bw": 40000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-3301": {
+			"CIDs": "HB10100878&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"SIPR-ROUTER-3302": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223D-90391&223D-95859&",
+			"traffic": 77.6571428571,
+			"utilization": 0.388285714286,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "33E-90608B&33E-90420&",
+			"traffic": 156.342857143,
+			"utilization": 0.781714285715,
+			"bw": 20000,
+			"metric": 110
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "295D-96526&295D-96525&",
+			"traffic": 4,
+			"utilization": 0.02,
+			"bw": 20000,
+			"metric": 270
+		},
+		"SIPR-ROUTER-3301": {
+			"CIDs": "HB11100074&",
+			"traffic": 1,
+			"utilization": 0.01,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPDT-ROUTER-4102": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101341&HB10101786&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 200000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10101785&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "223E-93518&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TNE1-ROUTER-3012": {
+			"CIDs": "223E-93600&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "223E-93597&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "223E-93595&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "223E-93522&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TCHN-ROUTER-3012": {
+			"CIDs": "223E-93516&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "223E-93601&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"SKC1-ROUTER-3012": {
+			"CIDs": "223E-93520&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		}
+	},
+	"SHMZ-ROUTER-3302": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223D-97472&223D-91504&",
+			"traffic": 296.285714286,
+			"utilization": 1.48142857143,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TPE4-ROUTER-3202": {
+			"CIDs": "227D-96405&227D-96557&",
+			"traffic": 60,
+			"utilization": 0.3,
+			"bw": 20000,
+			"metric": 60
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "295D-96330&",
+			"traffic": 144.183333333,
+			"utilization": 1.44183333333,
+			"bw": 10000,
+			"metric": 100
+		},
+		"SHMZ-ROUTER-3301": {
+			"CIDs": "HB11200069&",
+			"traffic": 1.66666666667,
+			"utilization": 0.0166666666667,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPDB-ROUTER-4208": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101938&HB10100933&HB10100929&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 30000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10101037&HB10101937&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		}
+	},
+	"RTKZ-ROUTER-3312": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223E-93447&223E-93678&223E-93581&",
+			"traffic": 98,
+			"utilization": 0.326666666667,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TPE4-ROUTER-3202": {
+			"CIDs": "227E-92030&",
+			"traffic": 50,
+			"utilization": 0.5,
+			"bw": 10000,
+			"metric": 100
+		},
+		"RTKZ-ROUTER-3311": {
+			"CIDs": "HB10700104&",
+			"traffic": 19.3333333333,
+			"utilization": 0.193333333333,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPDT-ROUTER-3307": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101553&HB10102201&HB10101656&HB10101480&",
+			"traffic": 611.133333333,
+			"utilization": 1.52783333333,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10101551&HB10101654&HB10102199&HB10101478&",
+			"traffic": 607.866666667,
+			"utilization": 1.51966666667,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3308": {
+			"CIDs": "HB10101555&",
+			"traffic": 79,
+			"utilization": 0.79,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPDT-ROUTER-4104": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101125&HB10102134&HB10101100&HB10101126&HB10101642&HB10102081&HB10102135&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 70000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10102080&HB10101121&HB10101099&HB10101615&HB10101120&HB10102132&HB10102133&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 70000,
+			"metric": 100
+		}
+	},
+	"TPDT-ROUTER-4105": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101350&HB10101351&HB10101708&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 30000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10101346&HB10101347&HB10101707&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 30000,
+			"metric": 100
+		}
+	},
+	"TPN2-ROUTER-3302": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223D-91660&223D-93368&223D-93018&223D-70439&223D-97469&",
+			"traffic": 348.119047619,
+			"utilization": 0.696238095238,
+			"bw": 50000,
+			"metric": 160
+		},
+		"TPE4-ROUTER-3202": {
+			"CIDs": "227D-96802&227D-94827&227D-96600&227D-96552&",
+			"traffic": 199.583333333,
+			"utilization": 0.498958333333,
+			"bw": 40000,
+			"metric": 60
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "295D-96325&295D-96327&295D-96328&295D-96326&295D-96324&",
+			"traffic": 286.933333333,
+			"utilization": 0.573866666666,
+			"bw": 50000,
+			"metric": 100
+		},
+		"TPN2-ROUTER-3301": {
+			"CIDs": "HB11000082&",
+			"traffic": 140.416666667,
+			"utilization": 1.40416666667,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"SCZS-ROUTER-3202": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "G20013&G20035&",
+			"traffic": 246.7,
+			"utilization": 0.308375,
+			"bw": 80000,
+			"metric": 160
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "33E-91040&33E-90777&33E-90731&33E-90394&33E-90511B&33E-90752&33E-90607B&",
+			"traffic": 4408.86666667,
+			"utilization": 6.29838095239,
+			"bw": 70000,
+			"metric": 100
+		},
+		"SCZS-ROUTER-3311": {
+			"CIDs": "HB10800317&",
+			"traffic": 1598.31111111,
+			"utilization": 1.59831111111,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SCZS-ROUTER-3312": {
+			"CIDs": "HB10800318&",
+			"traffic": 1769.61111111,
+			"utilization": 1.76961111111,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SCZS-ROUTER-3201": {
+			"CIDs": "HB10800230&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPE4-ROUTER-3202": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "223D-90844B&223D-92310&223D-97084&223D-91703&223D-70655&223D-93016&223D-99523&",
+			"traffic": 402.85,
+			"utilization": 0.5755,
+			"bw": 70000,
+			"metric": 160
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "HB10200550&G20017&",
+			"traffic": 520.683333333,
+			"utilization": 0.650854166666,
+			"bw": 80000,
+			"metric": 110
+		},
+		"TCHN-ROUTER-3012": {
+			"CIDs": "G20039&",
+			"traffic": 421.003571429,
+			"utilization": 1.05250892857,
+			"bw": 40000,
+			"metric": 240
+		},
+		"SKC1-ROUTER-3012": {
+			"CIDs": "G20041&",
+			"traffic": 262.502747253,
+			"utilization": 0.656256868132,
+			"bw": 40000,
+			"metric": 240
+		},
+		"PCPC-ROUTER-3202": {
+			"CIDs": "227D-95217&227D-96372&",
+			"traffic": 911.833333333,
+			"utilization": 4.55916666666,
+			"bw": 20000,
+			"metric": 60
+		},
+		"HLCA-ROUTER-3302": {
+			"CIDs": "227E-92051&",
+			"traffic": 135.85,
+			"utilization": 1.3585,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TPE4-ROUTER-3302": {
+			"CIDs": "HB10400482&",
+			"traffic": 1740,
+			"utilization": 1.74,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SHMZ-ROUTER-3302": {
+			"CIDs": "227D-96405&227D-96557&",
+			"traffic": 249.266666667,
+			"utilization": 1.24633333334,
+			"bw": 20000,
+			"metric": 60
+		},
+		"RTKZ-ROUTER-3312": {
+			"CIDs": "227E-92030&",
+			"traffic": 754.483333333,
+			"utilization": 7.54483333333,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TPN2-ROUTER-3302": {
+			"CIDs": "227D-96802&227D-94827&227D-96600&227D-96552&",
+			"traffic": 2379.26666667,
+			"utilization": 5.94816666668,
+			"bw": 40000,
+			"metric": 60
+		},
+		"TPE4-ROUTER-3301": {
+			"CIDs": "HB10400481&",
+			"traffic": 1975,
+			"utilization": 1.975,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "HB10400226&",
+			"traffic": 1.33333333333,
+			"utilization": 0.0133333333333,
+			"bw": 10000,
+			"metric": 100
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "295D-96338&295D-96337&",
+			"traffic": 74.1833333333,
+			"utilization": 0.370916666666,
+			"bw": 20000,
+			"metric": 160
+		}
+	},
+	"CHCH-ROUTER-3012": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "G20004&G20019&G20021&",
+			"traffic": 243.275,
+			"utilization": 0.202729166667,
+			"bw": 120000,
+			"metric": 140
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "G20024&",
+			"traffic": 403.416666667,
+			"utilization": 1.00854166667,
+			"bw": 40000,
+			"metric": 140
+		},
+		"TCHN-ROUTER-3012": {
+			"CIDs": "42E-92235&",
+			"traffic": 280,
+			"utilization": 2.8,
+			"bw": 10000,
+			"metric": 130
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "HB20300152&",
+			"traffic": 43.6524531025,
+			"utilization": 0.436524531025,
+			"bw": 10000,
+			"metric": 10
+		},
+		"CHCH-ROUTER-3611": {
+			"CIDs": "HB20300256&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"CHCH-ROUTER-3302": {
+			"CIDs": "HB20300066&HB20300244&HB20300287&HB20300156&HB20300238&HB20300247&HB20300198&",
+			"traffic": 1027.5,
+			"utilization": 1.46785714286,
+			"bw": 70000,
+			"metric": 100
+		},
+		"CHCH-ROUTER-3301": {
+			"CIDs": "HB20300197&HB20300058&HB20300155&HB20300245&HB20300288&HB20300239&HB20300248&",
+			"traffic": 1257,
+			"utilization": 1.79571428571,
+			"bw": 70000,
+			"metric": 100
+		},
+		"NTNK-ROUTER-3302": {
+			"CIDs": "47E-90415&47E-90555&47E-90609&",
+			"traffic": 1062.39469697,
+			"utilization": 3.54131565657,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TLHN-ROUTER-3302": {
+			"CIDs": "47E-90578&47E-90621&47E-90430&",
+			"traffic": 870.258838384,
+			"utilization": 2.90086279461,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TCKK-ROUTER-3301": {
+			"CIDs": "47E-90422&",
+			"traffic": 298.178571429,
+			"utilization": 2.98178571429,
+			"bw": 10000,
+			"metric": 160
+		},
+		"TCKK-ROUTER-3302": {
+			"CIDs": "47E-90486B&",
+			"traffic": 283.607142857,
+			"utilization": 2.83607142857,
+			"bw": 10000,
+			"metric": 160
+		},
+		"FYFY-ROUTER-3302": {
+			"CIDs": "47E-90525&47E-90391&",
+			"traffic": 1256.58611111,
+			"utilization": 6.28293055555,
+			"bw": 20000,
+			"metric": 160
+		},
+		"ULUL-ROUTER-3302": {
+			"CIDs": "47D-93410&47D-91311&",
+			"traffic": 716.216666667,
+			"utilization": 3.58108333334,
+			"bw": 20000,
+			"metric": 160
+		},
+		"CSLL-ROUTER-3302": {
+			"CIDs": "47E-90401&47E-90524&",
+			"traffic": 600.241666667,
+			"utilization": 3.00120833334,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3012": {
+			"CIDs": "47E-90550&",
+			"traffic": 269.823809524,
+			"utilization": 2.69823809524,
+			"bw": 10000,
+			"metric": 140
+		},
+		"SKC1-ROUTER-3012": {
+			"CIDs": "47E-90484B&47E-90548&47E-90485B&47E-90501&",
+			"traffic": 120.345238095,
+			"utilization": 0.300863095237,
+			"bw": 40000,
+			"metric": 140
+		},
+		"TPDT-ROUTER-4102": {
+			"CIDs": "223E-93597&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TPDT-ROUTER-4101": {
+			"CIDs": "223E-93515&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		}
+	},
+	"TCHN-ROUTER-3012": {
+		"TPDT-ROUTER-3012": {
+			"CIDs": "G20008&G20002&G20027&G20009&",
+			"traffic": 402.441666667,
+			"utilization": 0.251526041667,
+			"bw": 160000,
+			"metric": 140
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "G20037&G20023&",
+			"traffic": 655.25,
+			"utilization": 0.8190625,
+			"bw": 80000,
+			"metric": 140
+		},
+		"TCHN-ROUTER-3611": {
+			"CIDs": "HB20100476&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TCHN-ROUTER-3301": {
+			"CIDs": "HB20100481&",
+			"traffic": 3806.07142857,
+			"utilization": 3.80607142857,
+			"bw": 100000,
+			"metric": 100
+		},
+		"NTNK-ROUTER-3302": {
+			"CIDs": "42E-92358&",
+			"traffic": 257.60530303,
+			"utilization": 2.5760530303,
+			"bw": 10000,
+			"metric": 160
+		},
+		"TLHN-ROUTER-3302": {
+			"CIDs": "42E-92310&42E-92362B&42E-92384&",
+			"traffic": 979.91540404,
+			"utilization": 3.26638468013,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TCHN-ROUTER-3302": {
+			"CIDs": "HB20100482&",
+			"traffic": 3497.64285714,
+			"utilization": 3.49764285714,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TCKK-ROUTER-3302": {
+			"CIDs": "42D-92706&",
+			"traffic": 201.952380952,
+			"utilization": 2.01952380952,
+			"bw": 10000,
+			"metric": 160
+		},
+		"FYFY-ROUTER-3302": {
+			"CIDs": "42D-92681&",
+			"traffic": 349.474494949,
+			"utilization": 3.49474494949,
+			"bw": 10000,
+			"metric": 160
+		},
+		"ULUL-ROUTER-3302": {
+			"CIDs": "42E-92304&",
+			"traffic": 312.783333333,
+			"utilization": 3.12783333333,
+			"bw": 10000,
+			"metric": 160
+		},
+		"CSLL-ROUTER-3302": {
+			"CIDs": "42D-92768&42D-92763&42D-92714&42D-92725&",
+			"traffic": 1648.75833333,
+			"utilization": 4.12189583332,
+			"bw": 40000,
+			"metric": 160
+		},
+		"TPE4-ROUTER-3202": {
+			"CIDs": "G20039&",
+			"traffic": 198.333333333,
+			"utilization": 0.495833333333,
+			"bw": 40000,
+			"metric": 200
+		},
+		"TNE1-ROUTER-3012": {
+			"CIDs": "42E-92370&42E-92375&",
+			"traffic": 540.323809524,
+			"utilization": 2.70161904762,
+			"bw": 20000,
+			"metric": 140
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "42E-92235&",
+			"traffic": 128.5,
+			"utilization": 1.285,
+			"bw": 10000,
+			"metric": 130
+		},
+		"SKC1-ROUTER-3012": {
+			"CIDs": "G20033&",
+			"traffic": 198.345238095,
+			"utilization": 0.495863095238,
+			"bw": 40000,
+			"metric": 140
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "HB20100319&",
+			"traffic": 114.072655123,
+			"utilization": 1.14072655123,
+			"bw": 10000,
+			"metric": 10
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "295E-90059&",
+			"traffic": 74.3333333333,
+			"utilization": 0.0743333333333,
+			"bw": 100000,
+			"metric": 160
+		},
+		"TPDT-ROUTER-4102": {
+			"CIDs": "223E-93516&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TPDT-ROUTER-4101": {
+			"CIDs": "223E-93594&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		}
+	},
+	"TYFO-ROUTER-3015": {
+		"TYFO-ROUTER-3016": {
+			"CIDs": "HB10200508&",
+			"traffic": 147.145115995,
+			"utilization": 1.47145115995,
+			"bw": 10000,
+			"metric": 10
+		},
+		"PCPD-ROUTER-3211": {
+			"CIDs": "33E-91032&",
+			"traffic": 49.3523809524,
+			"utilization": 0.0493523809524,
+			"bw": 100000,
+			"metric": 230
+		},
+		"PCPC-ROUTER-3201": {
+			"CIDs": "G20030&",
+			"traffic": 2068.5,
+			"utilization": 5.17125,
+			"bw": 40000,
+			"metric": 100
+		},
+		"SNUH-ROUTER-3201": {
+			"CIDs": "33E-90661&33E-91025&33E-90605&33E-91094&33E-90748&33E-90476&",
+			"traffic": 1473.66666667,
+			"utilization": 2.45611111112,
+			"bw": 60000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3611": {
+			"CIDs": "HB10200519&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"SHGS-ROUTER-3302": {
+			"CIDs": "33E-90435&",
+			"traffic": 355.5,
+			"utilization": 3.555,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3302": {
+			"CIDs": "HB10200517&",
+			"traffic": 1874,
+			"utilization": 1.874,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SIPR-ROUTER-3301": {
+			"CIDs": "33E-90608&33E-90733&",
+			"traffic": 863.966666667,
+			"utilization": 4.31983333334,
+			"bw": 20000,
+			"metric": 110
+		},
+		"MLML-ROUTER-3301": {
+			"CIDs": "33E-90642&33E-90928&33E-90474&",
+			"traffic": 1553.63333333,
+			"utilization": 5.17877777777,
+			"bw": 30000,
+			"metric": 110
+		},
+		"SHGS-ROUTER-3301": {
+			"CIDs": "33E-90641&",
+			"traffic": 443,
+			"utilization": 4.43,
+			"bw": 10000,
+			"metric": 100
+		},
+		"CLPY-ROUTER-3301": {
+			"CIDs": "33D-93660&33D-95494&33D-91987&33D-94540&33D-95647&33D-93802&33D-94151&",
+			"traffic": 4023.5,
+			"utilization": 5.74785714286,
+			"bw": 70000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3301": {
+			"CIDs": "HB10200513&",
+			"traffic": 1892.5,
+			"utilization": 1.8925,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3306": {
+			"CIDs": "HB10200593&HB10200569&HB10200566&HB10200595&HB10200594&HB10200565&HB10200570&",
+			"traffic": 1643,
+			"utilization": 2.34714285714,
+			"bw": 70000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3305": {
+			"CIDs": "HB10200592&HB10200564&HB10200563&HB10200622&HB10200567&HB10200589&HB10200568&HB10200588&",
+			"traffic": 1944.66666667,
+			"utilization": 1.14392156863,
+			"bw": 170000,
+			"metric": 100
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "G20016&",
+			"traffic": 3043.83333333,
+			"utilization": 7.60958333333,
+			"bw": 40000,
+			"metric": 100
+		},
+		"SCZS-ROUTER-3201": {
+			"CIDs": "33E-91039&33E-90607&33E-90730&33E-90511&33E-90751&33E-90776&33E-90477&",
+			"traffic": 2019.21111111,
+			"utilization": 2.88458730159,
+			"bw": 70000,
+			"metric": 110
+		},
+		"TYFO-ROUTER-4032": {
+			"CIDs": "HB10200424&HB10200426&HB10200428&HB10200427&",
+			"traffic": 74.8333333333,
+			"utilization": 0.187083333333,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-4031": {
+			"CIDs": "HB10200491&HB10200490&HB10200261&HB10200489&",
+			"traffic": 184.666666667,
+			"utilization": 0.461666666668,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "G20055&",
+			"traffic": 2224.02216117,
+			"utilization": 2.22402216117,
+			"bw": 100000,
+			"metric": 190
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "G20022&G20036&",
+			"traffic": 1206.73095238,
+			"utilization": 1.50841369047,
+			"bw": 80000,
+			"metric": 190
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "G20025&",
+			"traffic": 749.867857143,
+			"utilization": 1.87466964286,
+			"bw": 40000,
+			"metric": 190
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "G20053&",
+			"traffic": 1907.31294261,
+			"utilization": 1.90731294261,
+			"bw": 100000,
+			"metric": 190
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "G20015&G20011&G20028&",
+			"traffic": 727.5,
+			"utilization": 0.60625,
+			"bw": 120000,
+			"metric": 140
+		}
+	},
+	"PCPD-ROUTER-3211": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "33E-91032&",
+			"traffic": 1940.66666667,
+			"utilization": 1.94066666667,
+			"bw": 100000,
+			"metric": 230
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223D-70953&223D-70952&",
+			"traffic": 193.035714286,
+			"utilization": 0.96517857143,
+			"bw": 20000,
+			"metric": 270
+		},
+		"TPDB-ROUTER-3021": {
+			"CIDs": "223D-71476&",
+			"traffic": 414.535714286,
+			"utilization": 0.414535714286,
+			"bw": 100000,
+			"metric": 260
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "HB10900278&",
+			"traffic": 806.04047619,
+			"utilization": 0.80604047619,
+			"bw": 100000,
+			"metric": 10
+		},
+		"PCPC-ROUTER-3301": {
+			"CIDs": "295D-96331&295D-96332&",
+			"traffic": 684.333333333,
+			"utilization": 3.42166666667,
+			"bw": 20000,
+			"metric": 320
+		},
+		"SHMZ-ROUTER-3301": {
+			"CIDs": "295D-96329&",
+			"traffic": 399.035714286,
+			"utilization": 3.99035714286,
+			"bw": 10000,
+			"metric": 110
+		},
+		"SIPR-ROUTER-3301": {
+			"CIDs": "295D-96523&295D-96524&",
+			"traffic": 103,
+			"utilization": 0.515,
+			"bw": 20000,
+			"metric": 270
+		},
+		"SNUH-ROUTER-3301": {
+			"CIDs": "295D-96315&295D-96316&",
+			"traffic": 5.5,
+			"utilization": 0.0275,
+			"bw": 20000,
+			"metric": 300
+		},
+		"SHGS-ROUTER-3301": {
+			"CIDs": "295D-96519&295D-96520&",
+			"traffic": 83.5,
+			"utilization": 0.4175,
+			"bw": 20000,
+			"metric": 270
+		},
+		"PCPD-ROUTER-4001": {
+			"CIDs": "HB11800004&",
+			"traffic": 77.1,
+			"utilization": 0.0771,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPN2-ROUTER-3301": {
+			"CIDs": "295D-96320&295D-96319&295D-96321&295D-96322&295D-96323&",
+			"traffic": 852.452380952,
+			"utilization": 1.7049047619,
+			"bw": 50000,
+			"metric": 110
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "295D-96336&295D-96335&",
+			"traffic": 1686.33333333,
+			"utilization": 8.43166666665,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "295E-90068&",
+			"traffic": 2258.06666667,
+			"utilization": 2.25806666667,
+			"bw": 100000,
+			"metric": 140
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "295E-90063&",
+			"traffic": 3333.99404762,
+			"utilization": 3.33399404762,
+			"bw": 100000,
+			"metric": 160
+		}
+	},
+	"PCPC-ROUTER-3201": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "G20030&",
+			"traffic": 859.101556777,
+			"utilization": 2.14775389194,
+			"bw": 40000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223D-90845&223D-98881&223D-91658&223D-92577&223D-70652&223D-93031&223D-99522&",
+			"traffic": 816.58507326,
+			"utilization": 1.16655010466,
+			"bw": 70000,
+			"metric": 160
+		},
+		"PCPC-ROUTER-3202": {
+			"CIDs": "HB10900067&",
+			"traffic": 3.5,
+			"utilization": 0.05,
+			"bw": 7000,
+			"metric": 10
+		},
+		"PCPC-ROUTER-3301": {
+			"CIDs": "HB10900260&HB10900142&HB10900234&HB10900171&HB10900222&HB10900268&",
+			"traffic": 1798.83333333,
+			"utilization": 2.99805555555,
+			"bw": 60000,
+			"metric": 100
+		},
+		"SHGS-ROUTER-3301": {
+			"CIDs": "295D-93264&",
+			"traffic": 124,
+			"utilization": 1.24,
+			"bw": 10000,
+			"metric": 60
+		},
+		"PCPC-ROUTER-3302": {
+			"CIDs": "HB10900235&HB10900269&HB10900261&HB10900189&HB10900223&HB10900163&",
+			"traffic": 1816,
+			"utilization": 3.02666666667,
+			"bw": 60000,
+			"metric": 100
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "227D-95552&227D-96182&",
+			"traffic": 868.608699634,
+			"utilization": 4.34304349817,
+			"bw": 20000,
+			"metric": 60
+		},
+		"SNUH-ROUTER-3201": {
+			"CIDs": "295D-95238&",
+			"traffic": 422.5,
+			"utilization": 4.225,
+			"bw": 10000,
+			"metric": 60
+		}
+	},
+	"SNUH-ROUTER-3201": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "33E-90661&33E-91025&33E-90605&33E-91094&33E-90748&33E-90476&",
+			"traffic": 687.9,
+			"utilization": 1.1465,
+			"bw": 60000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223D-97120&223D-91295&223D-70433&223D-99131&223D-91607&297D-90116&",
+			"traffic": 688.2,
+			"utilization": 1.147,
+			"bw": 60000,
+			"metric": 160
+		},
+		"PCPC-ROUTER-3201": {
+			"CIDs": "295D-95238&",
+			"traffic": 470,
+			"utilization": 4.7,
+			"bw": 10000,
+			"metric": 60
+		},
+		"SNUH-ROUTER-3202": {
+			"CIDs": "HB10300108&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 4000,
+			"metric": 10
+		},
+		"SNUH-ROUTER-3302": {
+			"CIDs": "HB10300238&HB10300144&HB10300284&HB10300185&",
+			"traffic": 1788,
+			"utilization": 4.47,
+			"bw": 40000,
+			"metric": 100
+		},
+		"SNUH-ROUTER-3301": {
+			"CIDs": "HB10300269&HB10300131&HB10300237&HB10300184&",
+			"traffic": 1514.66666667,
+			"utilization": 3.78666666668,
+			"bw": 40000,
+			"metric": 100
+		}
+	},
+	"TYFO-ROUTER-3611": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "HB10200519&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "HB10200520&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TYFO-ROUTER-3302": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "HB10200517&",
+			"traffic": 3294.66666667,
+			"utilization": 3.29466666667,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "HB10200518&",
+			"traffic": 3389.33333333,
+			"utilization": 3.38933333333,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3301": {
+			"CIDs": "HB10200191&",
+			"traffic": 1426,
+			"utilization": 14.26,
+			"bw": 10000,
+			"metric": 200
+		}
+	},
+	"SIPR-ROUTER-3301": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "33E-90608&33E-90733&",
+			"traffic": 112.784615385,
+			"utilization": 0.563923076925,
+			"bw": 20000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223D-97058&223D-91406&",
+			"traffic": 77.2153846154,
+			"utilization": 0.386076923077,
+			"bw": 20000,
+			"metric": 160
+		},
+		"PCPD-ROUTER-3211": {
+			"CIDs": "295D-96523&295D-96524&",
+			"traffic": 2,
+			"utilization": 0.01,
+			"bw": 20000,
+			"metric": 270
+		},
+		"SIPR-ROUTER-3302": {
+			"CIDs": "HB11100074&",
+			"traffic": 2,
+			"utilization": 0.02,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"MLML-ROUTER-3301": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "33E-90642&33E-90928&33E-90474&",
+			"traffic": 206.066666667,
+			"utilization": 0.68688888889,
+			"bw": 30000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223E-93563&223E-93308&",
+			"traffic": 79.9333333333,
+			"utilization": 0.399666666666,
+			"bw": 20000,
+			"metric": 160
+		},
+		"MLML-ROUTER-3302": {
+			"CIDs": "HB21200135&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 1000
+		}
+	},
+	"SHGS-ROUTER-3301": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "33E-90641&",
+			"traffic": 48.6666666667,
+			"utilization": 0.486666666667,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223D-97182&223D-91609&",
+			"traffic": 28.3333333333,
+			"utilization": 0.141666666667,
+			"bw": 20000,
+			"metric": 160
+		},
+		"PCPD-ROUTER-3211": {
+			"CIDs": "295D-96519&295D-96520&",
+			"traffic": 3,
+			"utilization": 0.015,
+			"bw": 20000,
+			"metric": 270
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "33E-90729&",
+			"traffic": 50.3333333333,
+			"utilization": 0.503333333333,
+			"bw": 10000,
+			"metric": 100
+		},
+		"PCPC-ROUTER-3201": {
+			"CIDs": "295D-93264&",
+			"traffic": 71,
+			"utilization": 0.71,
+			"bw": 10000,
+			"metric": 60
+		},
+		"SHGS-ROUTER-3302": {
+			"CIDs": "HB11300065&",
+			"traffic": 75.5,
+			"utilization": 0.755,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"CLPY-ROUTER-3301": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "33D-93660&33D-95494&33D-91987&33D-94540&33D-95647&33D-93802&33D-94151&",
+			"traffic": 645.936507937,
+			"utilization": 0.92276643991,
+			"bw": 70000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223E-93629&223E-93426&223E-93306&223E-93513&",
+			"traffic": 166.857142857,
+			"utilization": 0.417142857142,
+			"bw": 40000,
+			"metric": 160
+		},
+		"CLPY-ROUTER-3302": {
+			"CIDs": "HB10500050&",
+			"traffic": 122.174603175,
+			"utilization": 1.22174603175,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"TYFO-ROUTER-3301": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "HB10200513&",
+			"traffic": 4092.33333333,
+			"utilization": 4.09233333333,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "HB10200514&",
+			"traffic": 4211.66666667,
+			"utilization": 4.21166666667,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3302": {
+			"CIDs": "HB10200191&",
+			"traffic": 1948,
+			"utilization": 19.48,
+			"bw": 10000,
+			"metric": 200
+		}
+	},
+	"TYFO-ROUTER-3306": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "HB10200593&HB10200569&HB10200566&HB10200595&HB10200594&HB10200565&HB10200570&",
+			"traffic": 92,
+			"utilization": 0.131428571429,
+			"bw": 70000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "HB10200599&HB10200610&HB10200577&HB10200609&HB10200578&HB10200573&HB10200623&HB10200574&",
+			"traffic": 95,
+			"utilization": 0.0558823529412,
+			"bw": 170000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3305": {
+			"CIDs": "HB10200579&",
+			"traffic": 4,
+			"utilization": 0.04,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"TYFO-ROUTER-3305": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "HB10200592&HB10200564&HB10200563&HB10200622&HB10200567&HB10200589&HB10200568&HB10200588&",
+			"traffic": 4446.66666667,
+			"utilization": 2.61568627451,
+			"bw": 170000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "HB10200575&HB10200572&HB10200571&HB10200596&HB10200598&HB10200597&HB10200576&",
+			"traffic": 4658.33333333,
+			"utilization": 6.65476190476,
+			"bw": 70000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3306": {
+			"CIDs": "HB10200579&",
+			"traffic": 91,
+			"utilization": 0.91,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"TPE4-ROUTER-3201": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "G20016&",
+			"traffic": 1055.55,
+			"utilization": 2.638875,
+			"bw": 40000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223D-99521&223D-91610&223D-92157&223D-90844&223D-70654&223D-97473&223D-93015&",
+			"traffic": 726.55,
+			"utilization": 1.03792857143,
+			"bw": 70000,
+			"metric": 160
+		},
+		"PCPD-ROUTER-3211": {
+			"CIDs": "295D-96336&295D-96335&",
+			"traffic": 75.6333333333,
+			"utilization": 0.378166666667,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "G20038&",
+			"traffic": 583.189285714,
+			"utilization": 1.45797321428,
+			"bw": 40000,
+			"metric": 240
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "G20040&",
+			"traffic": 398.086080586,
+			"utilization": 0.995215201465,
+			"bw": 40000,
+			"metric": 240
+		},
+		"PCPC-ROUTER-3201": {
+			"CIDs": "227D-95552&227D-96182&",
+			"traffic": 1253.83333333,
+			"utilization": 6.26916666665,
+			"bw": 20000,
+			"metric": 60
+		},
+		"SHMZ-ROUTER-3301": {
+			"CIDs": "227D-96443&227D-94826&",
+			"traffic": 249.466666667,
+			"utilization": 1.24733333333,
+			"bw": 20000,
+			"metric": 60
+		},
+		"HLCA-ROUTER-3301": {
+			"CIDs": "227E-92029&",
+			"traffic": 191.866666667,
+			"utilization": 1.91866666667,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TPE4-ROUTER-3302": {
+			"CIDs": "HB10400480&",
+			"traffic": 1695,
+			"utilization": 1.695,
+			"bw": 100000,
+			"metric": 100
+		},
+		"RTKZ-ROUTER-3311": {
+			"CIDs": "227E-92056&227E-92050&",
+			"traffic": 951.95,
+			"utilization": 4.75975,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPN2-ROUTER-3301": {
+			"CIDs": "227D-96801&227D-96406&227D-96599&227D-96444&",
+			"traffic": 2742.66666667,
+			"utilization": 6.85666666667,
+			"bw": 40000,
+			"metric": 60
+		},
+		"TPE4-ROUTER-3301": {
+			"CIDs": "HB10400479&",
+			"traffic": 1975,
+			"utilization": 1.975,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPE4-ROUTER-3202": {
+			"CIDs": "HB10400226&",
+			"traffic": 13,
+			"utilization": 0.13,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"SCZS-ROUTER-3201": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "33E-91039&33E-90607&33E-90730&33E-90511&33E-90751&33E-90776&33E-90477&",
+			"traffic": 4456.53333333,
+			"utilization": 6.36647619047,
+			"bw": 70000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "G20034&G20010&",
+			"traffic": 243.9,
+			"utilization": 0.304875,
+			"bw": 80000,
+			"metric": 160
+		},
+		"SCZS-ROUTER-3311": {
+			"CIDs": "HB10800315&",
+			"traffic": 1691.68888889,
+			"utilization": 1.69168888889,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SCZS-ROUTER-3312": {
+			"CIDs": "HB10800316&",
+			"traffic": 1840.38888889,
+			"utilization": 1.84038888889,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SCZS-ROUTER-3202": {
+			"CIDs": "HB10800230&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TYFO-ROUTER-4032": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "HB10200424&HB10200426&HB10200428&HB10200427&",
+			"traffic": 4,
+			"utilization": 0.01,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "HB10200430&HB10200432&HB10200431&HB10200429&",
+			"traffic": 4,
+			"utilization": 0.01,
+			"bw": 40000,
+			"metric": 100
+		}
+	},
+	"TYFO-ROUTER-4031": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "HB10200491&HB10200490&HB10200261&HB10200489&",
+			"traffic": 13,
+			"utilization": 0.0325,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TYFO-ROUTER-3016": {
+			"CIDs": "HB10200492&HB10200494&HB10200493&HB10200291&",
+			"traffic": 15,
+			"utilization": 0.0375,
+			"bw": 40000,
+			"metric": 100
+		}
+	},
+	"TNE1-ROUTER-3011": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "G20055&",
+			"traffic": 5472.5,
+			"utilization": 5.4725,
+			"bw": 100000,
+			"metric": 140
+		},
+		"TPDB-ROUTER-3021": {
+			"CIDs": "G20052&",
+			"traffic": 1193.65277778,
+			"utilization": 1.19365277778,
+			"bw": 100000,
+			"metric": 130
+		},
+		"PCPD-ROUTER-3211": {
+			"CIDs": "295E-90068&",
+			"traffic": 527.333333333,
+			"utilization": 0.527333333333,
+			"bw": 100000,
+			"metric": 140
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "42E-92369&42E-92374&",
+			"traffic": 1441,
+			"utilization": 7.205,
+			"bw": 20000,
+			"metric": 150
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "72E-95360&72E-96171&",
+			"traffic": 1303.33333333,
+			"utilization": 6.51666666665,
+			"bw": 20000,
+			"metric": 130
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "47E-90549&47E-90580&",
+			"traffic": 1268.80429293,
+			"utilization": 6.34402146465,
+			"bw": 20000,
+			"metric": 140
+		},
+		"TNE1-ROUTER-3611": {
+			"CIDs": "HB31200094&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 1000
+		},
+		"TNCD-ROUTER-3311": {
+			"CIDs": "6D-91121&6D-91115&6D-91110&6D-90902&6D-91103&",
+			"traffic": 588.9,
+			"utilization": 1.1778,
+			"bw": 50000,
+			"metric": 160
+		},
+		"NKN1-ROUTER-3311": {
+			"CIDs": "6E-90391&6E-90388&6E-90455&6E-90444&",
+			"traffic": 764.733333333,
+			"utilization": 1.91183333333,
+			"bw": 40000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3301": {
+			"CIDs": "HB31200124&",
+			"traffic": 5225.16666667,
+			"utilization": 5.22516666667,
+			"bw": 100000,
+			"metric": 100
+		},
+		"PTHS-ROUTER-3311": {
+			"CIDs": "6E-90399&6E-90423&",
+			"traffic": 293.528571429,
+			"utilization": 1.46764285714,
+			"bw": 20000,
+			"metric": 160
+		},
+		"HYMD-ROUTER-3301": {
+			"CIDs": "6D-91039&",
+			"traffic": 423.411544012,
+			"utilization": 4.23411544012,
+			"bw": 10000,
+			"metric": 160
+		},
+		"CAW1-ROUTER-3311": {
+			"CIDs": "6E-90478&6E-90446&6E-90422&",
+			"traffic": 1201.98095238,
+			"utilization": 4.0066031746,
+			"bw": 30000,
+			"metric": 160
+		},
+		"FSE1-ROUTER-3301": {
+			"CIDs": "6E-90493&6E-90386&",
+			"traffic": 500.414285714,
+			"utilization": 2.50207142857,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3012": {
+			"CIDs": "HB31200015&",
+			"traffic": 1712.68400488,
+			"utilization": 17.1268400488,
+			"bw": 10000,
+			"metric": 10
+		},
+		"PHMK-ROUTER-3201": {
+			"CIDs": "6E-90383&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 1000
+		},
+		"TPDT-ROUTER-4102": {
+			"CIDs": "223E-93518&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TPDT-ROUTER-4101": {
+			"CIDs": "223E-93599&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 220
+		}
+	},
+	"TCHN-ROUTER-3011": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "G20022&G20036&",
+			"traffic": 654.25,
+			"utilization": 0.8178125,
+			"bw": 80000,
+			"metric": 140
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "G20001&G20007&G20026&G20006&",
+			"traffic": 455.233333333,
+			"utilization": 0.284520833333,
+			"bw": 160000,
+			"metric": 140
+		},
+		"PCPD-ROUTER-3211": {
+			"CIDs": "295E-90063&",
+			"traffic": 65.6666666667,
+			"utilization": 0.0656666666667,
+			"bw": 100000,
+			"metric": 160
+		},
+		"TCHN-ROUTER-3611": {
+			"CIDs": "HB20100475&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"ULUL-ROUTER-3301": {
+			"CIDs": "42E-92303&",
+			"traffic": 215.475,
+			"utilization": 2.15475,
+			"bw": 10000,
+			"metric": 160
+		},
+		"TCHN-ROUTER-3301": {
+			"CIDs": "HB20100479&",
+			"traffic": 3782.92857143,
+			"utilization": 3.78292857143,
+			"bw": 100000,
+			"metric": 100
+		},
+		"NTNK-ROUTER-3301": {
+			"CIDs": "42E-92366&42E-92309&",
+			"traffic": 408.2,
+			"utilization": 2.041,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TCHN-ROUTER-3302": {
+			"CIDs": "HB20100480&",
+			"traffic": 3516.35714286,
+			"utilization": 3.51635714286,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TCKK-ROUTER-3301": {
+			"CIDs": "42D-92705&",
+			"traffic": 206.80952381,
+			"utilization": 2.0680952381,
+			"bw": 10000,
+			"metric": 160
+		},
+		"CSLL-ROUTER-3301": {
+			"CIDs": "42D-92623&42D-92713&42D-92758&",
+			"traffic": 1316.76666667,
+			"utilization": 4.38922222223,
+			"bw": 30000,
+			"metric": 160
+		},
+		"FYFY-ROUTER-3301": {
+			"CIDs": "42D-92710&42D-92715&",
+			"traffic": 415.131565657,
+			"utilization": 2.07565782829,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TLHN-ROUTER-3301": {
+			"CIDs": "42E-92389&42E-92362&42E-92377&",
+			"traffic": 1106.41489899,
+			"utilization": 3.6880496633,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "G20038&",
+			"traffic": 261.816666667,
+			"utilization": 0.654541666668,
+			"bw": 40000,
+			"metric": 200
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "42E-92369&42E-92374&",
+			"traffic": 476.085714286,
+			"utilization": 2.38042857143,
+			"bw": 20000,
+			"metric": 140
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "42E-92365&",
+			"traffic": 128.5,
+			"utilization": 1.285,
+			"bw": 10000,
+			"metric": 130
+		},
+		"TCHN-ROUTER-3012": {
+			"CIDs": "HB20100319&",
+			"traffic": 154.047582973,
+			"utilization": 1.54047582973,
+			"bw": 10000,
+			"metric": 10
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "G20032&",
+			"traffic": 208.245238095,
+			"utilization": 0.520613095237,
+			"bw": 40000,
+			"metric": 140
+		},
+		"TPDT-ROUTER-4102": {
+			"CIDs": "223E-93595&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TPDT-ROUTER-4101": {
+			"CIDs": "223E-93514&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		}
+	},
+	"CHCH-ROUTER-3011": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "G20025&",
+			"traffic": 491.583333333,
+			"utilization": 1.22895833333,
+			"bw": 40000,
+			"metric": 140
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "G20018&G20003&G20020&",
+			"traffic": 298.4,
+			"utilization": 0.248666666667,
+			"bw": 120000,
+			"metric": 140
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "42E-92365&",
+			"traffic": 280,
+			"utilization": 2.8,
+			"bw": 10000,
+			"metric": 130
+		},
+		"CHCH-ROUTER-3611": {
+			"CIDs": "HB20300255&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"CHCH-ROUTER-3302": {
+			"CIDs": "HB20300154&HB20300286&HB20300240&HB20300242&HB20300246&HB20300057&HB20300196&",
+			"traffic": 1028.5,
+			"utilization": 1.46928571429,
+			"bw": 70000,
+			"metric": 100
+		},
+		"CHCH-ROUTER-3301": {
+			"CIDs": "HB20300241&HB20300237&HB20300065&HB20300285&HB20300195&HB20300153&HB20300243&",
+			"traffic": 1339,
+			"utilization": 1.91285714286,
+			"bw": 70000,
+			"metric": 100
+		},
+		"ULUL-ROUTER-3301": {
+			"CIDs": "47D-93409&",
+			"traffic": 478.525,
+			"utilization": 4.78525,
+			"bw": 10000,
+			"metric": 160
+		},
+		"NTNK-ROUTER-3301": {
+			"CIDs": "47E-90533&47E-90572&47E-90620&",
+			"traffic": 1700.8,
+			"utilization": 5.66933333333,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TCKK-ROUTER-3301": {
+			"CIDs": "47E-90486&",
+			"traffic": 296.011904762,
+			"utilization": 2.96011904762,
+			"bw": 10000,
+			"metric": 160
+		},
+		"CSLL-ROUTER-3301": {
+			"CIDs": "47E-90544&47E-90400&",
+			"traffic": 493.233333333,
+			"utilization": 2.46616666667,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TCKK-ROUTER-3302": {
+			"CIDs": "47E-90396&",
+			"traffic": 285.44047619,
+			"utilization": 2.8544047619,
+			"bw": 10000,
+			"metric": 160
+		},
+		"FYFY-ROUTER-3301": {
+			"CIDs": "47E-90545&47E-90390&",
+			"traffic": 1502.80782828,
+			"utilization": 7.5140391414,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TLHN-ROUTER-3301": {
+			"CIDs": "47E-90414&47E-90532&",
+			"traffic": 919.410858586,
+			"utilization": 4.59705429293,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "47E-90549&47E-90580&",
+			"traffic": 224.252380952,
+			"utilization": 1.12126190476,
+			"bw": 20000,
+			"metric": 140
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "HB20300152&",
+			"traffic": 42.9011183261,
+			"utilization": 0.429011183261,
+			"bw": 10000,
+			"metric": 10
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "47E-90547&47E-90484&47E-90485&47E-90500&",
+			"traffic": 131.578571429,
+			"utilization": 0.328946428572,
+			"bw": 40000,
+			"metric": 140
+		},
+		"TPDT-ROUTER-4102": {
+			"CIDs": "223E-93522&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TPDT-ROUTER-4101": {
+			"CIDs": "223E-93596&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		}
+	},
+	"SKC1-ROUTER-3011": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "G20053&",
+			"traffic": 1089.41111111,
+			"utilization": 1.08941111111,
+			"bw": 100000,
+			"metric": 190
+		},
+		"TPDB-ROUTER-3021": {
+			"CIDs": "G20049&",
+			"traffic": 807.772222222,
+			"utilization": 0.807772222222,
+			"bw": 100000,
+			"metric": 130
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "G20032&",
+			"traffic": 1105.27020202,
+			"utilization": 2.76317550505,
+			"bw": 40000,
+			"metric": 140
+		},
+		"SKC1-ROUTER-3611": {
+			"CIDs": "HB30100030&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TNCD-ROUTER-3311": {
+			"CIDs": "72E-96425&72E-96314&72E-95747&72E-96158&",
+			"traffic": 771.1,
+			"utilization": 1.92775,
+			"bw": 40000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3315": {
+			"CIDs": "HB30100530&HB30100437&HB30100277&HB30100532&HB30100625&HB30100573&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 60000,
+			"metric": 1000
+		},
+		"NKN1-ROUTER-3311": {
+			"CIDs": "72D-97750&72D-97543&72D-97746&72D-90530&72D-97744&72D-97711&72D-97620&72D-97618&",
+			"traffic": 3621.26666667,
+			"utilization": 4.52658333334,
+			"bw": 80000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3311": {
+			"CIDs": "HB30100374&HB30100525&HB30100523&HB30100578&HB30103350&",
+			"traffic": 226.625641026,
+			"utilization": 0.453251282052,
+			"bw": 50000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3316": {
+			"CIDs": "HB30100439&HB30100536&HB30100627&HB30100288&HB30100574&HB30100538&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 60000,
+			"metric": 1000
+		},
+		"SKC1-ROUTER-3312": {
+			"CIDs": "HB30100513&HB30100527&HB30100549&HB30100579&HB30100441&",
+			"traffic": 189.898717949,
+			"utilization": 0.379797435898,
+			"bw": 50000,
+			"metric": 100
+		},
+		"TTML-ROUTER-3301": {
+			"CIDs": "72E-96553&",
+			"traffic": 391,
+			"utilization": 3.91,
+			"bw": 10000,
+			"metric": 160
+		},
+		"KMKC-ROUTER-3301": {
+			"CIDs": "72E-95721&72E-96255&",
+			"traffic": 453,
+			"utilization": 4.11818181818,
+			"bw": 11000,
+			"metric": 160
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "G20040&",
+			"traffic": 432.2,
+			"utilization": 1.0805,
+			"bw": 40000,
+			"metric": 240
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "72E-95360&72E-96171&",
+			"traffic": 367,
+			"utilization": 1.835,
+			"bw": 20000,
+			"metric": 130
+		},
+		"PHMK-ROUTER-3201": {
+			"CIDs": "72E-95653&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 290
+		},
+		"SKC1-ROUTER-3012": {
+			"CIDs": "HB30114101&HB30100539&",
+			"traffic": 106.120873571,
+			"utilization": 0.530604367855,
+			"bw": 20000,
+			"metric": 10
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "47E-90547&47E-90484&47E-90485&47E-90500&",
+			"traffic": 678.603535354,
+			"utilization": 1.69650883838,
+			"bw": 40000,
+			"metric": 140
+		},
+		"SKC1-ROUTER-3021": {
+			"CIDs": "HB30100598&HB30100663&HB30100599&",
+			"traffic": 3758.57748363,
+			"utilization": 1.25285916121,
+			"bw": 300000,
+			"metric": 10
+		},
+		"TPDT-ROUTER-4102": {
+			"CIDs": "223E-93601&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TPDT-ROUTER-4101": {
+			"CIDs": "223E-93519&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 220
+		}
+	},
+	"TPDT-ROUTER-3011": {
+		"TYFO-ROUTER-3015": {
+			"CIDs": "G20015&G20011&G20028&",
+			"traffic": 648.5,
+			"utilization": 0.540416666667,
+			"bw": 120000,
+			"metric": 140
+		},
+		"PCPD-ROUTER-3211": {
+			"CIDs": "223D-70953&223D-70952&",
+			"traffic": 18.3523809524,
+			"utilization": 0.091761904762,
+			"bw": 20000,
+			"metric": 170
+		},
+		"TPDT-ROUTER-3611": {
+			"CIDs": "HB10101989&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"PCPC-ROUTER-3201": {
+			"CIDs": "223D-90845&223D-98881&223D-91658&223D-92577&223D-70652&223D-93031&223D-99522&",
+			"traffic": 447,
+			"utilization": 0.638571428571,
+			"bw": 70000,
+			"metric": 160
+		},
+		"SNUH-ROUTER-3201": {
+			"CIDs": "223D-97120&223D-91295&223D-70433&223D-99131&223D-91607&297D-90116&",
+			"traffic": 1406.5,
+			"utilization": 2.34416666667,
+			"bw": 60000,
+			"metric": 160
+		},
+		"TPDB-ROUTER-3516": {
+			"CIDs": "HB10100661&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 110
+		},
+		"TPDB-ROUTER-3515": {
+			"CIDs": "HB10100651&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-4044": {
+			"CIDs": "HB10100692&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-4043": {
+			"CIDs": "HB10100606&HB10100607&",
+			"traffic": 0.5,
+			"utilization": 0.0025,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPDB-ROUTER-3311": {
+			"CIDs": "HB10102327&HB10102279&",
+			"traffic": 3083.83333333,
+			"utilization": 1.54191666667,
+			"bw": 200000,
+			"metric": 10
+		},
+		"TPDB-ROUTER-4202": {
+			"CIDs": "HB10102677&",
+			"traffic": 26.8333333333,
+			"utilization": 0.268333333333,
+			"bw": 10000,
+			"metric": 100
+		},
+		"SHMZ-ROUTER-3301": {
+			"CIDs": "223D-97471&223D-90903&",
+			"traffic": 654.333333333,
+			"utilization": 3.27166666667,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TPDB-ROUTER-3317": {
+			"CIDs": "HB10101801&HB10102117&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-4106": {
+			"CIDs": "HB10101348&HB10102074&HB10101349&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 30000,
+			"metric": 100
+		},
+		"TPDB-ROUTER-3318": {
+			"CIDs": "HB10101804&HB10102118&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 20000,
+			"metric": 100
+		},
+		"HLCA-ROUTER-3301": {
+			"CIDs": "223E-93662&223E-93448&223E-93529&",
+			"traffic": 879.3,
+			"utilization": 2.931,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TPDT-ROUTER-3308": {
+			"CIDs": "HB10101479&HB10101655&HB10101552&HB10102200&",
+			"traffic": 1788.47142857,
+			"utilization": 4.47117857142,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3301": {
+			"CIDs": "HB10102566&HB10102567&HB10100848&HB10102447&HB10101720&HB10100795&",
+			"traffic": 126.233333333,
+			"utilization": 0.210388888888,
+			"bw": 60000,
+			"metric": 110
+		},
+		"TPDT-ROUTER-4103": {
+			"CIDs": "HB10102128&HB10100858&HB10101614&HB10102129&HB10100835&HB10101699&HB10101119&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 70000,
+			"metric": 100
+		},
+		"TPDB-ROUTER-4207": {
+			"CIDs": "HB10102092&HB10100863&",
+			"traffic": 31.2666666667,
+			"utilization": 0.156333333334,
+			"bw": 20000,
+			"metric": 100
+		},
+		"SIPR-ROUTER-3301": {
+			"CIDs": "223D-97058&223D-91406&",
+			"traffic": 139.033333333,
+			"utilization": 0.695166666665,
+			"bw": 20000,
+			"metric": 160
+		},
+		"MLML-ROUTER-3301": {
+			"CIDs": "223E-93563&223E-93308&",
+			"traffic": 506.366666667,
+			"utilization": 2.53183333334,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TPDT-ROUTER-3302": {
+			"CIDs": "HB10102568&HB10100903&HB10102569&HB10100872&",
+			"traffic": 68.3,
+			"utilization": 0.17075,
+			"bw": 40000,
+			"metric": 110
+		},
+		"RTKZ-ROUTER-3311": {
+			"CIDs": "223E-93677&223E-93393&",
+			"traffic": 292.383333333,
+			"utilization": 1.46191666667,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TPDT-ROUTER-4102": {
+			"CIDs": "HB10101785&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SHGS-ROUTER-3301": {
+			"CIDs": "223D-97182&223D-91609&",
+			"traffic": 130.666666667,
+			"utilization": 0.653333333335,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TPDB-ROUTER-4208": {
+			"CIDs": "HB10101037&HB10101937&",
+			"traffic": 372.633333333,
+			"utilization": 1.86316666666,
+			"bw": 20000,
+			"metric": 100
+		},
+		"CLPY-ROUTER-3301": {
+			"CIDs": "223E-93629&223E-93426&223E-93306&223E-93513&",
+			"traffic": 842.833333333,
+			"utilization": 2.10708333333,
+			"bw": 40000,
+			"metric": 160
+		},
+		"TPDB-ROUTER-3312": {
+			"CIDs": "HB10102280&",
+			"traffic": 2539.86666667,
+			"utilization": 2.53986666667,
+			"bw": 100000,
+			"metric": 10
+		},
+		"TPDT-ROUTER-3307": {
+			"CIDs": "HB10101551&HB10101654&HB10102199&HB10101478&",
+			"traffic": 1635.53809524,
+			"utilization": 4.0888452381,
+			"bw": 40000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-4104": {
+			"CIDs": "HB10102080&HB10101121&HB10101099&HB10101615&HB10101120&HB10102132&HB10102133&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 70000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-4105": {
+			"CIDs": "HB10101346&HB10101347&HB10101707&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 30000,
+			"metric": 100
+		},
+		"TTML-ROUTER-3301": {
+			"CIDs": "223E-93466&",
+			"traffic": 77.3333333333,
+			"utilization": 0.773333333333,
+			"bw": 10000,
+			"metric": 160
+		},
+		"TPN2-ROUTER-3301": {
+			"CIDs": "223D-97470&223D-99944&223D-70438&223D-93017&223D-91294&",
+			"traffic": 514.466666667,
+			"utilization": 1.02893333333,
+			"bw": 50000,
+			"metric": 160
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "223D-99521&223D-91610&223D-92157&223D-90844&223D-70654&223D-97473&223D-93015&",
+			"traffic": 569.5,
+			"utilization": 0.813571428571,
+			"bw": 70000,
+			"metric": 160
+		},
+		"SCZS-ROUTER-3201": {
+			"CIDs": "G20034&G20010&",
+			"traffic": 1512.86666667,
+			"utilization": 1.89108333334,
+			"bw": 80000,
+			"metric": 160
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "G20001&G20007&G20026&G20006&",
+			"traffic": 1645.64761905,
+			"utilization": 1.02852976191,
+			"bw": 160000,
+			"metric": 140
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "G20018&G20003&G20020&",
+			"traffic": 1810.11785714,
+			"utilization": 1.50843154762,
+			"bw": 120000,
+			"metric": 140
+		},
+		"PHMK-ROUTER-3201": {
+			"CIDs": "223E-93441&223E-93449&",
+			"traffic": 51,
+			"utilization": 0.463636363636,
+			"bw": 11000,
+			"metric": 280
+		},
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10100636&HB10100712&HB10100650&",
+			"traffic": 29.3213786214,
+			"utilization": 0.244344821845,
+			"bw": 12000,
+			"metric": 10
+		},
+		"TPDB-ROUTER-3021": {
+			"CIDs": "HB10102696&HB10102710&HB10101757&HB10102697&",
+			"traffic": 2988.80407925,
+			"utilization": 0.747201019812,
+			"bw": 400000,
+			"metric": 10
+		}
+	},
+	"SHMZ-ROUTER-3301": {
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223D-97471&223D-90903&",
+			"traffic": 249.635714286,
+			"utilization": 1.24817857143,
+			"bw": 20000,
+			"metric": 160
+		},
+		"PCPD-ROUTER-3211": {
+			"CIDs": "295D-96329&",
+			"traffic": 144.633333333,
+			"utilization": 1.44633333333,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "227D-96443&227D-94826&",
+			"traffic": 61.4,
+			"utilization": 0.307,
+			"bw": 20000,
+			"metric": 60
+		},
+		"SHMZ-ROUTER-3302": {
+			"CIDs": "HB11200069&",
+			"traffic": 4.83333333333,
+			"utilization": 0.0483333333333,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"HLCA-ROUTER-3301": {
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223E-93662&223E-93448&223E-93529&",
+			"traffic": 138,
+			"utilization": 0.46,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "227E-92029&",
+			"traffic": 63.3333333333,
+			"utilization": 0.633333333333,
+			"bw": 10000,
+			"metric": 100
+		},
+		"HLCA-ROUTER-3302": {
+			"CIDs": "HB10600134&",
+			"traffic": 29.5,
+			"utilization": 0.295,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"RTKZ-ROUTER-3311": {
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223E-93677&223E-93393&",
+			"traffic": 118,
+			"utilization": 0.59,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "227E-92056&227E-92050&",
+			"traffic": 69,
+			"utilization": 0.345,
+			"bw": 20000,
+			"metric": 100
+		},
+		"RTKZ-ROUTER-3312": {
+			"CIDs": "HB10700104&",
+			"traffic": 10.6666666667,
+			"utilization": 0.106666666667,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TTML-ROUTER-3301": {
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223E-93466&",
+			"traffic": 74.25,
+			"utilization": 0.7425,
+			"bw": 10000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "72E-96553&",
+			"traffic": 67.9166666667,
+			"utilization": 0.679166666667,
+			"bw": 10000,
+			"metric": 160
+		},
+		"TTML-ROUTER-3302": {
+			"CIDs": "HB30900031&",
+			"traffic": 12.8333333333,
+			"utilization": 0.128333333333,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"TPN2-ROUTER-3301": {
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223D-97470&223D-99944&223D-70438&223D-93017&223D-91294&",
+			"traffic": 323.185714286,
+			"utilization": 0.646371428572,
+			"bw": 50000,
+			"metric": 160
+		},
+		"PCPD-ROUTER-3211": {
+			"CIDs": "295D-96320&295D-96319&295D-96321&295D-96322&295D-96323&",
+			"traffic": 304.8,
+			"utilization": 0.6096,
+			"bw": 50000,
+			"metric": 100
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "227D-96801&227D-96406&227D-96599&227D-96444&",
+			"traffic": 236.433333333,
+			"utilization": 0.591083333333,
+			"bw": 40000,
+			"metric": 60
+		},
+		"TPN2-ROUTER-3302": {
+			"CIDs": "HB11000082&",
+			"traffic": 154.583333333,
+			"utilization": 1.54583333333,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"PHMK-ROUTER-3201": {
+		"TPDT-ROUTER-3011": {
+			"CIDs": "223E-93441&223E-93449&",
+			"traffic": 44.5,
+			"utilization": 0.404545454545,
+			"bw": 11000,
+			"metric": 230
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "72E-95653&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 290
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "6E-90383&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 1000
+		},
+		"PHMK-ROUTER-3202": {
+			"CIDs": "HB30700033&",
+			"traffic": 54,
+			"utilization": 0.675,
+			"bw": 8000,
+			"metric": 10
+		},
+		"PHMK-ROUTER-3203": {
+			"CIDs": "HB30700034&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 1000
+		}
+	},
+	"TPDB-ROUTER-3021": {
+		"PCPD-ROUTER-3211": {
+			"CIDs": "223D-71476&",
+			"traffic": 29.3523809524,
+			"utilization": 0.0293523809524,
+			"bw": 100000,
+			"metric": 160
+		},
+		"TPDB-ROUTER-3315": {
+			"CIDs": "HB10102665&",
+			"traffic": 1175.7,
+			"utilization": 1.1757,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPDB-ROUTER-3316": {
+			"CIDs": "HB10102666&",
+			"traffic": 615.266666667,
+			"utilization": 0.615266666667,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-4101": {
+			"CIDs": "HB10102688&HB10102686&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 200000,
+			"metric": 90
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "G20052&",
+			"traffic": 1042.23255078,
+			"utilization": 1.04223255078,
+			"bw": 100000,
+			"metric": 130
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "G20049&",
+			"traffic": 750.436463536,
+			"utilization": 0.750436463536,
+			"bw": 100000,
+			"metric": 130
+		},
+		"TPDT-ROUTER-3011": {
+			"CIDs": "HB10102696&HB10102710&HB10101757&HB10102697&",
+			"traffic": 9949.53571429,
+			"utilization": 2.48738392857,
+			"bw": 400000,
+			"metric": 10
+		},
+		"TPDT-ROUTER-3022": {
+			"CIDs": "HB10102584&",
+			"traffic": 12.918997669,
+			"utilization": 0.012918997669,
+			"bw": 100000,
+			"metric": 10
+		},
+		"SKC1-ROUTER-3021": {
+			"CIDs": "223E-93685&",
+			"traffic": 432.132733933,
+			"utilization": 0.432132733933,
+			"bw": 100000,
+			"metric": 140
+		}
+	},
+	"TPDB-ROUTER-3315": {
+		"TPDB-ROUTER-3021": {
+			"CIDs": "HB10102665&",
+			"traffic": 4712.83333333,
+			"utilization": 4.71283333333,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-3022": {
+			"CIDs": "HB10102667&",
+			"traffic": 4637.16666667,
+			"utilization": 4.63716666667,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPDB-ROUTER-3316": {
+			"CIDs": "HB10101796&",
+			"traffic": 502,
+			"utilization": 5.02,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPDT-ROUTER-4101": {
+		"TPDB-ROUTER-3021": {
+			"CIDs": "HB10102688&HB10102686&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 200000,
+			"metric": 90
+		},
+		"TPDT-ROUTER-3022": {
+			"CIDs": "HB10102691&HB10102689&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 200000,
+			"metric": 90
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "223E-93599&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 220
+		},
+		"TNE1-ROUTER-3012": {
+			"CIDs": "223E-93517&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 220
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "223E-93515&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "223E-93514&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "223E-93596&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TCHN-ROUTER-3012": {
+			"CIDs": "223E-93594&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "223E-93519&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 220
+		},
+		"SKC1-ROUTER-3012": {
+			"CIDs": "223E-93598&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 220
+		}
+	},
+	"TPDT-ROUTER-3022": {
+		"TPDB-ROUTER-3021": {
+			"CIDs": "HB10102584&",
+			"traffic": 10.3023809524,
+			"utilization": 0.0103023809524,
+			"bw": 100000,
+			"metric": 10
+		},
+		"TPDB-ROUTER-3315": {
+			"CIDs": "HB10102667&",
+			"traffic": 919.3,
+			"utilization": 0.9193,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPDB-ROUTER-3316": {
+			"CIDs": "HB10102668&",
+			"traffic": 514.733333333,
+			"utilization": 0.514733333333,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPDT-ROUTER-4101": {
+			"CIDs": "HB10102691&HB10102689&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 200000,
+			"metric": 90
+		},
+		"TNE1-ROUTER-3012": {
+			"CIDs": "G20051&",
+			"traffic": 1326.2475691,
+			"utilization": 1.3262475691,
+			"bw": 100000,
+			"metric": 130
+		},
+		"SKC1-ROUTER-3012": {
+			"CIDs": "G20050&",
+			"traffic": 771.862221112,
+			"utilization": 0.771862221112,
+			"bw": 100000,
+			"metric": 130
+		},
+		"TPDT-ROUTER-3012": {
+			"CIDs": "HB10101758&HB10102695&HB10102693&HB10102817&",
+			"traffic": 9388.32777778,
+			"utilization": 2.34708194445,
+			"bw": 400000,
+			"metric": 10
+		}
+	},
+	"SKC1-ROUTER-3021": {
+		"TPDB-ROUTER-3021": {
+			"CIDs": "223E-93685&",
+			"traffic": 428.308333333,
+			"utilization": 0.428308333333,
+			"bw": 100000,
+			"metric": 140
+		},
+		"SKC1-ROUTER-3315": {
+			"CIDs": "HB30100655&",
+			"traffic": 1571.82380952,
+			"utilization": 1.57182380952,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3311": {
+			"CIDs": "HB30100651&",
+			"traffic": 2349.25641026,
+			"utilization": 2.34925641026,
+			"bw": 100000,
+			"metric": 90
+		},
+		"PTHS-ROUTER-3311": {
+			"CIDs": "72E-96394&72E-96346&72E-95801&",
+			"traffic": 1504.47142857,
+			"utilization": 5.0149047619,
+			"bw": 30000,
+			"metric": 150
+		},
+		"SKC1-ROUTER-4101": {
+			"CIDs": "HB30100494&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 100000,
+			"metric": 90
+		},
+		"SKC1-ROUTER-3316": {
+			"CIDs": "HB30100653&",
+			"traffic": 1054.63333333,
+			"utilization": 1.05463333333,
+			"bw": 100000,
+			"metric": 100
+		},
+		"HYMD-ROUTER-3301": {
+			"CIDs": "72E-95694&72E-96426&",
+			"traffic": 215.791341991,
+			"utilization": 1.07895670996,
+			"bw": 20000,
+			"metric": 150
+		},
+		"SKC1-ROUTER-3312": {
+			"CIDs": "HB30100657&",
+			"traffic": 2207.40384615,
+			"utilization": 2.20740384615,
+			"bw": 100000,
+			"metric": 90
+		},
+		"CAW1-ROUTER-3311": {
+			"CIDs": "72E-96315&72E-96637&72E-95686&72E-95686B&",
+			"traffic": 1591.01904762,
+			"utilization": 3.97754761905,
+			"bw": 40000,
+			"metric": 150
+		},
+		"FSE1-ROUTER-3301": {
+			"CIDs": "72D-90528&72D-97628&",
+			"traffic": 245.585714286,
+			"utilization": 1.22792857143,
+			"bw": 20000,
+			"metric": 150
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "HB30100598&HB30100663&HB30100599&",
+			"traffic": 7279.19065657,
+			"utilization": 2.42639688552,
+			"bw": 300000,
+			"metric": 10
+		},
+		"SKC1-ROUTER-3022": {
+			"CIDs": "HB30100597&",
+			"traffic": 54.9831501832,
+			"utilization": 0.0549831501832,
+			"bw": 100000,
+			"metric": 10
+		}
+	},
+	"PCPC-ROUTER-3301": {
+		"PCPD-ROUTER-3211": {
+			"CIDs": "295D-96331&295D-96332&",
+			"traffic": 1299.66071429,
+			"utilization": 6.49830357145,
+			"bw": 20000,
+			"metric": 160
+		},
+		"PCPC-ROUTER-3201": {
+			"CIDs": "HB10900260&HB10900142&HB10900234&HB10900171&HB10900222&HB10900268&",
+			"traffic": 1376.36950549,
+			"utilization": 2.29394917582,
+			"bw": 60000,
+			"metric": 20
+		},
+		"PCPC-ROUTER-3202": {
+			"CIDs": "HB10900224&HB10900262&HB10900236&HB10900164&HB10900270&HB10900190&",
+			"traffic": 1316.96978022,
+			"utilization": 2.1949496337,
+			"bw": 60000,
+			"metric": 20
+		},
+		"PCPC-ROUTER-3302": {
+			"CIDs": "HB10900144&",
+			"traffic": 1654,
+			"utilization": 16.54,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"SNUH-ROUTER-3301": {
+		"PCPD-ROUTER-3211": {
+			"CIDs": "295D-96315&295D-96316&",
+			"traffic": 5,
+			"utilization": 0.025,
+			"bw": 20000,
+			"metric": 300
+		},
+		"SNUH-ROUTER-3202": {
+			"CIDs": "HB10300285&HB10300239&HB10300143&HB10300187&",
+			"traffic": 492.922222222,
+			"utilization": 1.23230555555,
+			"bw": 40000,
+			"metric": 100
+		},
+		"SNUH-ROUTER-3201": {
+			"CIDs": "HB10300269&HB10300131&HB10300237&HB10300184&",
+			"traffic": 495.077777778,
+			"utilization": 1.23769444444,
+			"bw": 40000,
+			"metric": 100
+		},
+		"SNUH-ROUTER-3302": {
+			"CIDs": "HB10300133&",
+			"traffic": 1495.5,
+			"utilization": 29.91,
+			"bw": 5000,
+			"metric": 10
+		}
+	},
+	"PCPD-ROUTER-4001": {
+		"PCPD-ROUTER-3211": {
+			"CIDs": "HB11800004&",
+			"traffic": 20.3095238095,
+			"utilization": 0.0203095238095,
+			"bw": 100000,
+			"metric": 100
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "HB11800005&",
+			"traffic": 16.6904761905,
+			"utilization": 0.0166904761905,
+			"bw": 100000,
+			"metric": 100
+		}
+	},
+	"TNE1-ROUTER-3012": {
+		"TYFO-ROUTER-3016": {
+			"CIDs": "G20056&",
+			"traffic": 5718.5,
+			"utilization": 5.7185,
+			"bw": 100000,
+			"metric": 140
+		},
+		"TCHN-ROUTER-3012": {
+			"CIDs": "42E-92370&42E-92375&",
+			"traffic": 1487,
+			"utilization": 7.435,
+			"bw": 20000,
+			"metric": 150
+		},
+		"SKC1-ROUTER-3012": {
+			"CIDs": "72E-96347&72E-96171B&",
+			"traffic": 1368.66666667,
+			"utilization": 6.84333333335,
+			"bw": 20000,
+			"metric": 130
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "47E-90550&",
+			"traffic": 1350.44570707,
+			"utilization": 13.5044570707,
+			"bw": 10000,
+			"metric": 140
+		},
+		"TNE1-ROUTER-3611": {
+			"CIDs": "HB31200095&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 1000
+		},
+		"FSE1-ROUTER-3302": {
+			"CIDs": "6E-90387&",
+			"traffic": 528.128571429,
+			"utilization": 5.28128571429,
+			"bw": 10000,
+			"metric": 160
+		},
+		"HYMD-ROUTER-3302": {
+			"CIDs": "6D-91101&",
+			"traffic": 410.147330447,
+			"utilization": 4.10147330447,
+			"bw": 10000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3301": {
+			"CIDs": "HB31200132&",
+			"traffic": 4920.83333333,
+			"utilization": 6.15104166666,
+			"bw": 80000,
+			"metric": 100
+		},
+		"PTHS-ROUTER-3312": {
+			"CIDs": "6E-90466&6E-90423B&",
+			"traffic": 291.321428571,
+			"utilization": 1.45660714286,
+			"bw": 20000,
+			"metric": 160
+		},
+		"NKN1-ROUTER-3312": {
+			"CIDs": "6E-90389&6E-90456&6E-90445&6E-90390&",
+			"traffic": 998.9,
+			"utilization": 2.49725,
+			"bw": 40000,
+			"metric": 160
+		},
+		"TNCD-ROUTER-3312": {
+			"CIDs": "6D-91122&6D-91117&6D-91046&6D-91108&6D-91102&",
+			"traffic": 565.3,
+			"utilization": 1.1306,
+			"bw": 50000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3302": {
+			"CIDs": "HB31200125&",
+			"traffic": 4035,
+			"utilization": 4.035,
+			"bw": 100000,
+			"metric": 100
+		},
+		"CAW1-ROUTER-3312": {
+			"CIDs": "6E-90400&6E-90465&6E-90443&",
+			"traffic": 1257.46318681,
+			"utilization": 4.19154395603,
+			"bw": 30000,
+			"metric": 160
+		},
+		"PHMK-ROUTER-3202": {
+			"CIDs": "6E-90403&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 1000
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "HB31200015&",
+			"traffic": 346.097258297,
+			"utilization": 3.46097258297,
+			"bw": 10000,
+			"metric": 10
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "295E-90064&",
+			"traffic": 521.666666667,
+			"utilization": 0.521666666667,
+			"bw": 100000,
+			"metric": 140
+		},
+		"TPDT-ROUTER-3022": {
+			"CIDs": "G20051&",
+			"traffic": 1320.80555556,
+			"utilization": 1.32080555556,
+			"bw": 100000,
+			"metric": 130
+		},
+		"TPDT-ROUTER-4102": {
+			"CIDs": "223E-93600&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TPDT-ROUTER-4101": {
+			"CIDs": "223E-93517&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 220
+		}
+	},
+	"SKC1-ROUTER-3012": {
+		"TYFO-ROUTER-3016": {
+			"CIDs": "G20054&",
+			"traffic": 1059.14444444,
+			"utilization": 1.05914444444,
+			"bw": 100000,
+			"metric": 190
+		},
+		"TCHN-ROUTER-3012": {
+			"CIDs": "G20033&",
+			"traffic": 955.188131313,
+			"utilization": 2.38797032828,
+			"bw": 40000,
+			"metric": 140
+		},
+		"SKC1-ROUTER-3611": {
+			"CIDs": "HB30100033&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TTML-ROUTER-3302": {
+			"CIDs": "72E-96196&",
+			"traffic": 597,
+			"utilization": 5.97,
+			"bw": 10000,
+			"metric": 160
+		},
+		"KMKC-ROUTER-3302": {
+			"CIDs": "72E-95722&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 1000
+		},
+		"SKC1-ROUTER-3315": {
+			"CIDs": "HB30100289&HB30100628&HB30100440&HB30100534&HB30100531&HB30100575&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 60000,
+			"metric": 1000
+		},
+		"SKC1-ROUTER-3311": {
+			"CIDs": "HB30100515&HB30100581&HB30100550&HB30100524&HB30100442&",
+			"traffic": 227.558974359,
+			"utilization": 0.455117948718,
+			"bw": 50000,
+			"metric": 100
+		},
+		"NKN1-ROUTER-3312": {
+			"CIDs": "72D-97542&72D-90531&72D-97747&72D-97745&72D-97751&72D-97712&72D-97674&72D-97619&",
+			"traffic": 4138.1,
+			"utilization": 5.172625,
+			"bw": 80000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3316": {
+			"CIDs": "HB30100535&HB30100626&HB30100278&HB30100537&HB30100438&HB30100576&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 60000,
+			"metric": 1000
+		},
+		"SKC1-ROUTER-3312": {
+			"CIDs": "HB30100528&HB30100580&HB30100375&HB30100526&HB30104350&",
+			"traffic": 188.598717949,
+			"utilization": 0.377197435898,
+			"bw": 50000,
+			"metric": 100
+		},
+		"TNCD-ROUTER-3312": {
+			"CIDs": "72E-96360&72E-95748&72E-96158B&",
+			"traffic": 592.7,
+			"utilization": 1.97566666667,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TPE4-ROUTER-3202": {
+			"CIDs": "G20041&",
+			"traffic": 321.916666667,
+			"utilization": 0.804791666668,
+			"bw": 40000,
+			"metric": 240
+		},
+		"TNE1-ROUTER-3012": {
+			"CIDs": "72E-96347&72E-96171B&",
+			"traffic": 593,
+			"utilization": 2.965,
+			"bw": 20000,
+			"metric": 130
+		},
+		"PHMK-ROUTER-3202": {
+			"CIDs": "72E-95667&72E-96313&",
+			"traffic": 656,
+			"utilization": 5.96363636364,
+			"bw": 11000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "HB30114101&HB30100539&",
+			"traffic": 72.2020562771,
+			"utilization": 0.361010281386,
+			"bw": 20000,
+			"metric": 10
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "47E-90484B&47E-90548&47E-90485B&47E-90501&",
+			"traffic": 547.188131313,
+			"utilization": 1.36797032828,
+			"bw": 40000,
+			"metric": 140
+		},
+		"SKC1-ROUTER-3022": {
+			"CIDs": "HB30100602&HB30100600&HB30100664&",
+			"traffic": 3683.21186036,
+			"utilization": 1.22773728679,
+			"bw": 300000,
+			"metric": 10
+		},
+		"TPDT-ROUTER-3022": {
+			"CIDs": "G20050&",
+			"traffic": 756.788888889,
+			"utilization": 0.756788888889,
+			"bw": 100000,
+			"metric": 130
+		},
+		"TPDT-ROUTER-4102": {
+			"CIDs": "223E-93520&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 240
+		},
+		"TPDT-ROUTER-4101": {
+			"CIDs": "223E-93598&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 220
+		}
+	},
+	"TCHN-ROUTER-3611": {
+		"TCHN-ROUTER-3012": {
+			"CIDs": "HB20100476&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "HB20100475&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TCHN-ROUTER-3301": {
+		"TCHN-ROUTER-3012": {
+			"CIDs": "HB20100481&",
+			"traffic": 1864.5,
+			"utilization": 1.8645,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "HB20100479&",
+			"traffic": 1769.5,
+			"utilization": 1.7695,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TCHN-ROUTER-3302": {
+			"CIDs": "HB20100528&HB20100085&",
+			"traffic": 3933,
+			"utilization": 19.665,
+			"bw": 20000,
+			"metric": 100
+		}
+	},
+	"NTNK-ROUTER-3302": {
+		"TCHN-ROUTER-3012": {
+			"CIDs": "42E-92358&",
+			"traffic": 108,
+			"utilization": 1.08,
+			"bw": 10000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "47E-90415&47E-90555&47E-90609&",
+			"traffic": 98,
+			"utilization": 0.326666666667,
+			"bw": 30000,
+			"metric": 160
+		},
+		"NTNK-ROUTER-3301": {
+			"CIDs": "HB20500114&",
+			"traffic": 17,
+			"utilization": 0.17,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TLHN-ROUTER-3302": {
+		"TCHN-ROUTER-3012": {
+			"CIDs": "42E-92310&42E-92362B&42E-92384&",
+			"traffic": 171.226190476,
+			"utilization": 0.570753968253,
+			"bw": 30000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "47E-90578&47E-90621&47E-90430&",
+			"traffic": 133.351190476,
+			"utilization": 0.444503968253,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TLHN-ROUTER-3301": {
+			"CIDs": "HB21100087&HB21100134&",
+			"traffic": 44.533008658,
+			"utilization": 0.404845533255,
+			"bw": 11000,
+			"metric": 10
+		}
+	},
+	"TCHN-ROUTER-3302": {
+		"TCHN-ROUTER-3012": {
+			"CIDs": "HB20100482&",
+			"traffic": 1232.5,
+			"utilization": 1.2325,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TCHN-ROUTER-3011": {
+			"CIDs": "HB20100480&",
+			"traffic": 1118.5,
+			"utilization": 1.1185,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TCHN-ROUTER-3301": {
+			"CIDs": "HB20100528&HB20100085&",
+			"traffic": 3401,
+			"utilization": 17.005,
+			"bw": 20000,
+			"metric": 100
+		}
+	},
+	"TCKK-ROUTER-3302": {
+		"TCHN-ROUTER-3012": {
+			"CIDs": "42D-92706&",
+			"traffic": 43.5,
+			"utilization": 0.435,
+			"bw": 10000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "47E-90396&",
+			"traffic": 33,
+			"utilization": 0.33,
+			"bw": 10000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "47E-90486B&",
+			"traffic": 27.5,
+			"utilization": 0.275,
+			"bw": 10000,
+			"metric": 160
+		},
+		"TCKK-ROUTER-3301": {
+			"CIDs": "HB20700079&",
+			"traffic": 1,
+			"utilization": 0.01,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"FYFY-ROUTER-3302": {
+		"TCHN-ROUTER-3012": {
+			"CIDs": "42D-92681&",
+			"traffic": 106.541666667,
+			"utilization": 1.06541666667,
+			"bw": 10000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "47E-90525&47E-90391&",
+			"traffic": 93.4583333333,
+			"utilization": 0.467291666666,
+			"bw": 20000,
+			"metric": 160
+		},
+		"FYFY-ROUTER-3301": {
+			"CIDs": "HB20900071&",
+			"traffic": 24.3170995671,
+			"utilization": 0.243170995671,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"ULUL-ROUTER-3302": {
+		"TCHN-ROUTER-3012": {
+			"CIDs": "42E-92304&",
+			"traffic": 39.5,
+			"utilization": 0.395,
+			"bw": 10000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "47D-93410&47D-91311&",
+			"traffic": 49.5,
+			"utilization": 0.2475,
+			"bw": 20000,
+			"metric": 160
+		},
+		"ULUL-ROUTER-3301": {
+			"CIDs": "HB21300089&HB21300047&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 11000,
+			"metric": 100
+		}
+	},
+	"CSLL-ROUTER-3302": {
+		"TCHN-ROUTER-3012": {
+			"CIDs": "42D-92768&42D-92763&42D-92714&42D-92725&",
+			"traffic": 199.533333333,
+			"utilization": 0.498833333333,
+			"bw": 40000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "47E-90401&47E-90524&",
+			"traffic": 113.466666667,
+			"utilization": 0.567333333335,
+			"bw": 20000,
+			"metric": 160
+		},
+		"CSLL-ROUTER-3301": {
+			"CIDs": "HB20800055&",
+			"traffic": 4,
+			"utilization": 0.04,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"ULUL-ROUTER-3301": {
+		"TCHN-ROUTER-3011": {
+			"CIDs": "42E-92303&",
+			"traffic": 53,
+			"utilization": 0.53,
+			"bw": 10000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "47D-93409&",
+			"traffic": 60,
+			"utilization": 0.6,
+			"bw": 10000,
+			"metric": 160
+		},
+		"ULUL-ROUTER-3302": {
+			"CIDs": "HB21300089&HB21300047&",
+			"traffic": 1,
+			"utilization": 0.00909090909091,
+			"bw": 11000,
+			"metric": 100
+		}
+	},
+	"NTNK-ROUTER-3301": {
+		"TCHN-ROUTER-3011": {
+			"CIDs": "42E-92366&42E-92309&",
+			"traffic": 160.8,
+			"utilization": 0.804,
+			"bw": 20000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "47E-90533&47E-90572&47E-90620&",
+			"traffic": 148.2,
+			"utilization": 0.494,
+			"bw": 30000,
+			"metric": 160
+		},
+		"NTNK-ROUTER-3302": {
+			"CIDs": "HB20500114&",
+			"traffic": 10,
+			"utilization": 0.1,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TCKK-ROUTER-3301": {
+		"TCHN-ROUTER-3011": {
+			"CIDs": "42D-92705&",
+			"traffic": 50.5,
+			"utilization": 0.505,
+			"bw": 10000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "47E-90486&",
+			"traffic": 32,
+			"utilization": 0.32,
+			"bw": 10000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "47E-90422&",
+			"traffic": 41.5,
+			"utilization": 0.415,
+			"bw": 10000,
+			"metric": 160
+		},
+		"TCKK-ROUTER-3302": {
+			"CIDs": "HB20700079&",
+			"traffic": 1,
+			"utilization": 0.01,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"CSLL-ROUTER-3301": {
+		"TCHN-ROUTER-3011": {
+			"CIDs": "42D-92623&42D-92713&42D-92758&",
+			"traffic": 185.866666667,
+			"utilization": 0.619555555557,
+			"bw": 30000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "47E-90544&47E-90400&",
+			"traffic": 119.133333333,
+			"utilization": 0.595666666665,
+			"bw": 20000,
+			"metric": 160
+		},
+		"CSLL-ROUTER-3302": {
+			"CIDs": "HB20800055&",
+			"traffic": 9,
+			"utilization": 0.09,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"FYFY-ROUTER-3301": {
+		"TCHN-ROUTER-3011": {
+			"CIDs": "42D-92710&42D-92715&",
+			"traffic": 148.041666667,
+			"utilization": 0.740208333335,
+			"bw": 20000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "47E-90545&47E-90390&",
+			"traffic": 118.958333333,
+			"utilization": 0.594791666665,
+			"bw": 20000,
+			"metric": 160
+		},
+		"FYFY-ROUTER-3302": {
+			"CIDs": "HB20900071&",
+			"traffic": 26.2564935065,
+			"utilization": 0.262564935065,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"TLHN-ROUTER-3301": {
+		"TCHN-ROUTER-3011": {
+			"CIDs": "42E-92389&42E-92362&42E-92377&",
+			"traffic": 175.81547619,
+			"utilization": 0.5860515873,
+			"bw": 30000,
+			"metric": 160
+		},
+		"CHCH-ROUTER-3011": {
+			"CIDs": "47E-90414&47E-90532&",
+			"traffic": 132.607142857,
+			"utilization": 0.663035714285,
+			"bw": 20000,
+			"metric": 160
+		},
+		"TLHN-ROUTER-3302": {
+			"CIDs": "HB21100087&HB21100134&",
+			"traffic": 45.9361471861,
+			"utilization": 0.417601338055,
+			"bw": 11000,
+			"metric": 10
+		}
+	},
+	"SKC1-ROUTER-3611": {
+		"SKC1-ROUTER-3012": {
+			"CIDs": "HB30100033&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "HB30100030&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"SKC1-ROUTER-3315": {
+		"SKC1-ROUTER-3012": {
+			"CIDs": "HB30100289&HB30100628&HB30100440&HB30100534&HB30100531&HB30100575&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 60000,
+			"metric": 1000
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "HB30100530&HB30100437&HB30100277&HB30100532&HB30100625&HB30100573&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 60000,
+			"metric": 1000
+		},
+		"SKC1-ROUTER-3022": {
+			"CIDs": "HB30100654&",
+			"traffic": 6707.43333333,
+			"utilization": 6.70743333333,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3021": {
+			"CIDs": "HB30100655&",
+			"traffic": 6526.56666667,
+			"utilization": 6.52656666667,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3316": {
+			"CIDs": "HB30100533&",
+			"traffic": 1361,
+			"utilization": 13.61,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"SKC1-ROUTER-3311": {
+		"SKC1-ROUTER-3012": {
+			"CIDs": "HB30100515&HB30100581&HB30100550&HB30100524&HB30100442&",
+			"traffic": 1202.8,
+			"utilization": 2.4056,
+			"bw": 50000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "HB30100374&HB30100525&HB30100523&HB30100578&HB30103350&",
+			"traffic": 1145.86666667,
+			"utilization": 2.29173333334,
+			"bw": 50000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3022": {
+			"CIDs": "HB30100658&",
+			"traffic": 1462.3,
+			"utilization": 1.4623,
+			"bw": 100000,
+			"metric": 90
+		},
+		"SKC1-ROUTER-3021": {
+			"CIDs": "HB30100651&",
+			"traffic": 1605.03333333,
+			"utilization": 1.60503333333,
+			"bw": 100000,
+			"metric": 90
+		},
+		"SKC1-ROUTER-3312": {
+			"CIDs": "HB30100551&",
+			"traffic": 141,
+			"utilization": 1.41,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"NKN1-ROUTER-3312": {
+		"SKC1-ROUTER-3012": {
+			"CIDs": "72D-97542&72D-90531&72D-97747&72D-97745&72D-97751&72D-97712&72D-97674&72D-97619&",
+			"traffic": 332.866666667,
+			"utilization": 0.416083333334,
+			"bw": 80000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3012": {
+			"CIDs": "6E-90389&6E-90456&6E-90445&6E-90390&",
+			"traffic": 569.133333333,
+			"utilization": 1.42283333333,
+			"bw": 40000,
+			"metric": 160
+		}
+	},
+	"SKC1-ROUTER-3316": {
+		"SKC1-ROUTER-3012": {
+			"CIDs": "HB30100535&HB30100626&HB30100278&HB30100537&HB30100438&HB30100576&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 60000,
+			"metric": 1000
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "HB30100439&HB30100536&HB30100627&HB30100288&HB30100574&HB30100538&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 60000,
+			"metric": 1000
+		},
+		"SKC1-ROUTER-3022": {
+			"CIDs": "HB30100656&",
+			"traffic": 5907.43333333,
+			"utilization": 5.90743333333,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3021": {
+			"CIDs": "HB30100653&",
+			"traffic": 5634.56666667,
+			"utilization": 5.63456666667,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3315": {
+			"CIDs": "HB30100533&",
+			"traffic": 1347,
+			"utilization": 13.47,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"SKC1-ROUTER-3312": {
+		"SKC1-ROUTER-3012": {
+			"CIDs": "HB30100528&HB30100580&HB30100375&HB30100526&HB30104350&",
+			"traffic": 34.2444444444,
+			"utilization": 0.0684888888888,
+			"bw": 50000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "HB30100513&HB30100527&HB30100549&HB30100579&HB30100441&",
+			"traffic": 33.1444444444,
+			"utilization": 0.0662888888888,
+			"bw": 50000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3022": {
+			"CIDs": "HB30100652&",
+			"traffic": 79.7444444444,
+			"utilization": 0.0797444444444,
+			"bw": 100000,
+			"metric": 90
+		},
+		"SKC1-ROUTER-3021": {
+			"CIDs": "HB30100657&",
+			"traffic": 86.8666666667,
+			"utilization": 0.0868666666667,
+			"bw": 100000,
+			"metric": 90
+		},
+		"SKC1-ROUTER-3311": {
+			"CIDs": "HB30100551&",
+			"traffic": 6,
+			"utilization": 0.06,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TNCD-ROUTER-3312": {
+		"SKC1-ROUTER-3012": {
+			"CIDs": "72E-96360&72E-95748&72E-96158B&",
+			"traffic": 126.033333333,
+			"utilization": 0.42011111111,
+			"bw": 30000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3012": {
+			"CIDs": "6D-91122&6D-91117&6D-91046&6D-91108&6D-91102&",
+			"traffic": 2329.96666667,
+			"utilization": 4.65993333334,
+			"bw": 50000,
+			"metric": 160
+		},
+		"TNCD-ROUTER-3311": {
+			"CIDs": "HB30200225&",
+			"traffic": 650,
+			"utilization": 6.5,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"SKC1-ROUTER-4102": {
+		"SKC1-ROUTER-3012": {
+			"CIDs": "HB30100571&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3011": {
+			"CIDs": "HB30100554&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 100000,
+			"metric": 100
+		}
+	},
+	"PHMK-ROUTER-3202": {
+		"SKC1-ROUTER-3012": {
+			"CIDs": "72E-95667&72E-96313&",
+			"traffic": 54.5,
+			"utilization": 0.495454545455,
+			"bw": 11000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3012": {
+			"CIDs": "6E-90403&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 1000
+		},
+		"PHMK-ROUTER-3201": {
+			"CIDs": "HB30700033&",
+			"traffic": 414.5,
+			"utilization": 5.18125,
+			"bw": 8000,
+			"metric": 10
+		},
+		"PHMK-ROUTER-3203": {
+			"CIDs": "HB30700035&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 1000
+		}
+	},
+	"TNCD-ROUTER-3311": {
+		"SKC1-ROUTER-3011": {
+			"CIDs": "72E-96425&72E-96314&72E-95747&72E-96158&",
+			"traffic": 162.1,
+			"utilization": 0.40525,
+			"bw": 40000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "6D-91121&6D-91115&6D-91110&6D-90902&6D-91103&",
+			"traffic": 2433.9,
+			"utilization": 4.8678,
+			"bw": 50000,
+			"metric": 160
+		},
+		"TNCD-ROUTER-3312": {
+			"CIDs": "HB30200225&",
+			"traffic": 568,
+			"utilization": 5.68,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"NKN1-ROUTER-3311": {
+		"SKC1-ROUTER-3011": {
+			"CIDs": "72D-97750&72D-97543&72D-97746&72D-90530&72D-97744&72D-97711&72D-97620&72D-97618&",
+			"traffic": 361.433333333,
+			"utilization": 0.451791666666,
+			"bw": 80000,
+			"metric": 160
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "6E-90391&6E-90388&6E-90455&6E-90444&",
+			"traffic": 525.566666667,
+			"utilization": 1.31391666667,
+			"bw": 40000,
+			"metric": 160
+		}
+	},
+	"KMKC-ROUTER-3301": {
+		"SKC1-ROUTER-3011": {
+			"CIDs": "72E-95721&72E-96255&",
+			"traffic": 37,
+			"utilization": 0.336363636364,
+			"bw": 11000,
+			"metric": 160
+		},
+		"KMKC-ROUTER-3302": {
+			"CIDs": "HB30800023&",
+			"traffic": 234,
+			"utilization": 2.34,
+			"bw": 10000,
+			"metric": 10
+		},
+		"KMKC-ROUTER-3303": {
+			"CIDs": "HB30800024&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 1000
+		},
+		"TPDB-ROUTER-3317": {
+			"CIDs": "223E-93390&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 45,
+			"metric": 1000
+		}
+	},
+	"PCPC-ROUTER-3302": {
+		"PCPC-ROUTER-3201": {
+			"CIDs": "HB10900235&HB10900269&HB10900261&HB10900189&HB10900223&HB10900163&",
+			"traffic": 1018.42582418,
+			"utilization": 1.69737637363,
+			"bw": 60000,
+			"metric": 20
+		},
+		"PCPC-ROUTER-3202": {
+			"CIDs": "HB10900225&HB10900271&HB10900174&HB10900143&HB10900263&HB10900237&",
+			"traffic": 848.98489011,
+			"utilization": 1.41497481685,
+			"bw": 60000,
+			"metric": 20
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "295D-96334&295D-96333&",
+			"traffic": 1209.58928571,
+			"utilization": 6.04794642855,
+			"bw": 20000,
+			"metric": 160
+		},
+		"PCPC-ROUTER-3301": {
+			"CIDs": "HB10900144&",
+			"traffic": 1691,
+			"utilization": 16.91,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"TPE4-ROUTER-3302": {
+		"TPE4-ROUTER-3202": {
+			"CIDs": "HB10400482&",
+			"traffic": 1747.5,
+			"utilization": 1.7475,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "HB10400480&",
+			"traffic": 1863.5,
+			"utilization": 1.8635,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPE4-ROUTER-3301": {
+			"CIDs": "HB10400257&HB10400230&",
+			"traffic": 1742,
+			"utilization": 87.1,
+			"bw": 2000,
+			"metric": 100
+		}
+	},
+	"TPE4-ROUTER-3301": {
+		"TPE4-ROUTER-3202": {
+			"CIDs": "HB10400481&",
+			"traffic": 1715.5,
+			"utilization": 1.7155,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPE4-ROUTER-3201": {
+			"CIDs": "HB10400479&",
+			"traffic": 1773.5,
+			"utilization": 1.7735,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TPE4-ROUTER-3302": {
+			"CIDs": "HB10400257&HB10400230&",
+			"traffic": 1708,
+			"utilization": 85.4,
+			"bw": 2000,
+			"metric": 100
+		}
+	},
+	"SNUH-ROUTER-3302": {
+		"SNUH-ROUTER-3202": {
+			"CIDs": "HB10300240&HB10300132&HB10300270&HB10300186&",
+			"traffic": 1243.97777778,
+			"utilization": 3.10994444445,
+			"bw": 40000,
+			"metric": 100
+		},
+		"SNUH-ROUTER-3201": {
+			"CIDs": "HB10300238&HB10300144&HB10300284&HB10300185&",
+			"traffic": 1351.02222222,
+			"utilization": 3.37755555555,
+			"bw": 40000,
+			"metric": 100
+		},
+		"PCPD-ROUTER-3212": {
+			"CIDs": "295D-96318&295D-96317&",
+			"traffic": 7,
+			"utilization": 0.035,
+			"bw": 20000,
+			"metric": 300
+		},
+		"SNUH-ROUTER-3301": {
+			"CIDs": "HB10300133&",
+			"traffic": 1508,
+			"utilization": 30.16,
+			"bw": 5000,
+			"metric": 10
+		}
+	},
+	"CHCH-ROUTER-3611": {
+		"CHCH-ROUTER-3011": {
+			"CIDs": "HB20300255&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "HB20300256&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"CHCH-ROUTER-3302": {
+		"CHCH-ROUTER-3011": {
+			"CIDs": "HB20300154&HB20300286&HB20300240&HB20300242&HB20300246&HB20300057&HB20300196&",
+			"traffic": 1730,
+			"utilization": 2.47142857143,
+			"bw": 70000,
+			"metric": 100
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "HB20300066&HB20300244&HB20300287&HB20300156&HB20300238&HB20300247&HB20300198&",
+			"traffic": 1519,
+			"utilization": 2.17,
+			"bw": 70000,
+			"metric": 100
+		},
+		"CHCH-ROUTER-3301": {
+			"CIDs": "HB20300188&HB20300185&",
+			"traffic": 1068,
+			"utilization": 9.70909090909,
+			"bw": 11000,
+			"metric": 100
+		}
+	},
+	"CHCH-ROUTER-3301": {
+		"CHCH-ROUTER-3011": {
+			"CIDs": "HB20300241&HB20300237&HB20300065&HB20300285&HB20300195&HB20300153&HB20300243&",
+			"traffic": 2459,
+			"utilization": 3.51285714286,
+			"bw": 70000,
+			"metric": 100
+		},
+		"CHCH-ROUTER-3012": {
+			"CIDs": "HB20300197&HB20300058&HB20300155&HB20300245&HB20300288&HB20300239&HB20300248&",
+			"traffic": 2130,
+			"utilization": 3.04285714286,
+			"bw": 70000,
+			"metric": 100
+		},
+		"CHCH-ROUTER-3302": {
+			"CIDs": "HB20300188&HB20300185&",
+			"traffic": 1142,
+			"utilization": 10.3818181818,
+			"bw": 11000,
+			"metric": 100
+		}
+	},
+	"TNE1-ROUTER-3611": {
+		"TNE1-ROUTER-3012": {
+			"CIDs": "HB31200095&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 1000
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "HB31200094&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 1000
+		}
+	},
+	"FSE1-ROUTER-3302": {
+		"TNE1-ROUTER-3012": {
+			"CIDs": "6E-90387&",
+			"traffic": 65.5454545455,
+			"utilization": 0.655454545455,
+			"bw": 10000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3022": {
+			"CIDs": "72D-97629&72D-97021&",
+			"traffic": 43.4545454545,
+			"utilization": 0.217272727273,
+			"bw": 20000,
+			"metric": 150
+		},
+		"FSE1-ROUTER-3301": {
+			"CIDs": "HB31000013&",
+			"traffic": 1,
+			"utilization": 0.01,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"HYMD-ROUTER-3302": {
+		"TNE1-ROUTER-3012": {
+			"CIDs": "6D-91101&",
+			"traffic": 47.0075757576,
+			"utilization": 0.470075757576,
+			"bw": 10000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3022": {
+			"CIDs": "72E-95695&",
+			"traffic": 22.2484848485,
+			"utilization": 0.222484848485,
+			"bw": 10000,
+			"metric": 150
+		},
+		"HYMD-ROUTER-3301": {
+			"CIDs": "HB31300026&",
+			"traffic": 66.0944444444,
+			"utilization": 0.660944444444,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"TNE1-ROUTER-3301": {
+		"TNE1-ROUTER-3012": {
+			"CIDs": "HB31200132&",
+			"traffic": 11711,
+			"utilization": 14.63875,
+			"bw": 80000,
+			"metric": 100
+		},
+		"TNE1-ROUTER-3011": {
+			"CIDs": "HB31200124&",
+			"traffic": 11433,
+			"utilization": 11.433,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TNE1-ROUTER-3302": {
+			"CIDs": "HB31201936&",
+			"traffic": 419,
+			"utilization": 41.9,
+			"bw": 1000,
+			"metric": 100
+		}
+	},
+	"PTHS-ROUTER-3312": {
+		"TNE1-ROUTER-3012": {
+			"CIDs": "6E-90466&6E-90423B&",
+			"traffic": 167.757575758,
+			"utilization": 0.83878787879,
+			"bw": 20000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3022": {
+			"CIDs": "72E-96533&72E-95800&72E-96213&",
+			"traffic": 130.242424242,
+			"utilization": 0.43414141414,
+			"bw": 30000,
+			"metric": 150
+		},
+		"PTHS-ROUTER-3311": {
+			"CIDs": "HB30400056&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 1000
+		}
+	},
+	"TNE1-ROUTER-3302": {
+		"TNE1-ROUTER-3012": {
+			"CIDs": "HB31200125&",
+			"traffic": 527,
+			"utilization": 0.527,
+			"bw": 100000,
+			"metric": 100
+		},
+		"TNE1-ROUTER-3301": {
+			"CIDs": "HB31201936&",
+			"traffic": 111,
+			"utilization": 11.1,
+			"bw": 1000,
+			"metric": 100
+		}
+	},
+	"CAW1-ROUTER-3312": {
+		"TNE1-ROUTER-3012": {
+			"CIDs": "6E-90400&6E-90465&6E-90443&",
+			"traffic": 269.84469697,
+			"utilization": 0.899482323233,
+			"bw": 30000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3022": {
+			"CIDs": "72E-95731B&72E-96542&72E-96361&72E-95731&",
+			"traffic": 124.15530303,
+			"utilization": 0.310388257575,
+			"bw": 40000,
+			"metric": 150
+		},
+		"CAW1-ROUTER-3311": {
+			"CIDs": "HB30300085&",
+			"traffic": 27,
+			"utilization": 0.27,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"PTHS-ROUTER-3311": {
+		"TNE1-ROUTER-3011": {
+			"CIDs": "6E-90399&6E-90423&",
+			"traffic": 152.234848485,
+			"utilization": 0.761174242425,
+			"bw": 20000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3021": {
+			"CIDs": "72E-96394&72E-96346&72E-95801&",
+			"traffic": 158.765151515,
+			"utilization": 0.529217171717,
+			"bw": 30000,
+			"metric": 150
+		},
+		"PTHS-ROUTER-3312": {
+			"CIDs": "HB30400056&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 1000
+		}
+	},
+	"HYMD-ROUTER-3301": {
+		"TNE1-ROUTER-3011": {
+			"CIDs": "6D-91039&",
+			"traffic": 53.2651515152,
+			"utilization": 0.532651515152,
+			"bw": 10000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3021": {
+			"CIDs": "72E-95694&72E-96426&",
+			"traffic": 28.4787878788,
+			"utilization": 0.142393939394,
+			"bw": 20000,
+			"metric": 150
+		},
+		"HYMD-ROUTER-3302": {
+			"CIDs": "HB31300026&",
+			"traffic": 58.5533910534,
+			"utilization": 0.585533910534,
+			"bw": 10000,
+			"metric": 10
+		}
+	},
+	"CAW1-ROUTER-3311": {
+		"TNE1-ROUTER-3011": {
+			"CIDs": "6E-90478&6E-90446&6E-90422&",
+			"traffic": 303.174242424,
+			"utilization": 1.01058080808,
+			"bw": 30000,
+			"metric": 160
+		},
+		"SKC1-ROUTER-3021": {
+			"CIDs": "72E-96315&72E-96637&72E-95686&72E-95686B&",
+			"traffic": 162.825757576,
+			"utilization": 0.40706439394,
+			"bw": 40000,
+			"metric": 150
+		},
+		"CAW1-ROUTER-3312": {
+			"CIDs": "HB30300085&",
+			"traffic": 20,
+			"utilization": 0.2,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"FSE1-ROUTER-3301": {
+		"TNE1-ROUTER-3011": {
+			"CIDs": "6E-90493&6E-90386&",
+			"traffic": 78.5454545455,
+			"utilization": 0.392727272727,
+			"bw": 20000,
+			"metric": 160
+		},
+		"FSE1-ROUTER-3302": {
+			"CIDs": "HB31000013&",
+			"traffic": 2,
+			"utilization": 0.02,
+			"bw": 10000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3021": {
+			"CIDs": "72D-90528&72D-97628&",
+			"traffic": 60.4545454545,
+			"utilization": 0.302272727273,
+			"bw": 20000,
+			"metric": 150
+		}
+	},
+	"SKC1-ROUTER-3022": {
+		"FSE1-ROUTER-3302": {
+			"CIDs": "72D-97629&72D-97021&",
+			"traffic": 238.871428571,
+			"utilization": 1.19435714285,
+			"bw": 20000,
+			"metric": 150
+		},
+		"SKC1-ROUTER-3315": {
+			"CIDs": "HB30100654&",
+			"traffic": 1293.17619048,
+			"utilization": 1.29317619048,
+			"bw": 100000,
+			"metric": 100
+		},
+		"HYMD-ROUTER-3302": {
+			"CIDs": "72E-95695&",
+			"traffic": 179.64978355,
+			"utilization": 1.7964978355,
+			"bw": 10000,
+			"metric": 150
+		},
+		"PTHS-ROUTER-3312": {
+			"CIDs": "72E-96533&72E-95800&72E-96213&",
+			"traffic": 1670.67857143,
+			"utilization": 5.56892857143,
+			"bw": 30000,
+			"metric": 150
+		},
+		"SKC1-ROUTER-3311": {
+			"CIDs": "HB30100658&",
+			"traffic": 2285.55897436,
+			"utilization": 2.28555897436,
+			"bw": 100000,
+			"metric": 90
+		},
+		"SKC1-ROUTER-4101": {
+			"CIDs": "HB30100495&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 100000,
+			"metric": 90
+		},
+		"SKC1-ROUTER-3316": {
+			"CIDs": "HB30100656&",
+			"traffic": 1006.36666667,
+			"utilization": 1.00636666667,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3312": {
+			"CIDs": "HB30100652&",
+			"traffic": 2153.09871795,
+			"utilization": 2.15309871795,
+			"bw": 100000,
+			"metric": 90
+		},
+		"CAW1-ROUTER-3312": {
+			"CIDs": "72E-95731B&72E-96542&72E-96361&72E-95731&",
+			"traffic": 1555.53681319,
+			"utilization": 3.88884203297,
+			"bw": 40000,
+			"metric": 150
+		},
+		"SKC1-ROUTER-3012": {
+			"CIDs": "HB30100602&HB30100600&HB30100664&",
+			"traffic": 7784.07045455,
+			"utilization": 2.59469015152,
+			"bw": 300000,
+			"metric": 10
+		},
+		"SKC1-ROUTER-3021": {
+			"CIDs": "HB30100597&",
+			"traffic": 48.1992784993,
+			"utilization": 0.0481992784993,
+			"bw": 100000,
+			"metric": 10
+		}
+	},
+	"SKC1-ROUTER-4101": {
+		"SKC1-ROUTER-3022": {
+			"CIDs": "HB30100495&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SKC1-ROUTER-3021": {
+			"CIDs": "HB30100494&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 100000,
+			"metric": 100
+		}
+	},
+	"TCWH-ROUTER-3301": {
+		"TCWH-ROUTER-3302": {
+			"CIDs": "HB21400036&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 150
+		}
+	},
+	"TCWH-ROUTER-3302": {
+		"TCWH-ROUTER-3301": {
+			"CIDs": "HB21400036&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 150
+		}
+	},
+	"KMKC-ROUTER-3303": {
+		"KMKC-ROUTER-3301": {
+			"CIDs": "HB30800024&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 1000
+		},
+		"KMKC-ROUTER-3302": {
+			"CIDs": "HB30800026&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 10000,
+			"metric": 1000
+		}
+	},
+	"SCZS-ROUTER-3311": {
+		"SCZS-ROUTER-3202": {
+			"CIDs": "HB10800317&",
+			"traffic": 2533.9,
+			"utilization": 2.5339,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SCZS-ROUTER-3201": {
+			"CIDs": "HB10800315&",
+			"traffic": 2600.1,
+			"utilization": 2.6001,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SCZS-ROUTER-3312": {
+			"CIDs": "HB10800319&",
+			"traffic": 1618,
+			"utilization": 16.18,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"SCZS-ROUTER-3312": {
+		"SCZS-ROUTER-3202": {
+			"CIDs": "HB10800318&",
+			"traffic": 2121.66666667,
+			"utilization": 2.12166666667,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SCZS-ROUTER-3201": {
+			"CIDs": "HB10800316&",
+			"traffic": 2100.33333333,
+			"utilization": 2.10033333333,
+			"bw": 100000,
+			"metric": 100
+		},
+		"SCZS-ROUTER-3311": {
+			"CIDs": "HB10800319&",
+			"traffic": 1400,
+			"utilization": 14,
+			"bw": 10000,
+			"metric": 100
+		}
+	},
+	"PHMK-ROUTER-3203": {
+		"PHMK-ROUTER-3201": {
+			"CIDs": "HB30700034&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 1000
+		},
+		"PHMK-ROUTER-3202": {
+			"CIDs": "HB30700035&",
+			"traffic": 0,
+			"utilization": 0,
+			"bw": 1000,
+			"metric": 100
+		}
+	}
+}

@@ -1,0 +1,134 @@
+html{ width: 100%; height: 100%; }
+body{
+  width: 100%;
+  height: 100%;
+  margin: 0; padding: 0;
+  display: flex;}
+
+li.path_bk{
+	cursor: pointer;
+}
+  
+/* SVG styles */
+svg { flex-basis: 100%; }
+
+circle.node {
+  fill: lightsteelblue;
+  stroke: #555;
+  stroke-width: 3px;
+  cursor: pointer;
+}
+circle.node_select_src {
+  fill: #58d604;
+  stroke: #555;
+  stroke-width: 5px;
+  cursor: pointer;
+}
+circle.node_select_dst {
+  fill: #d60404;
+  stroke: #555;
+  stroke-width: 5px;
+  cursor: pointer;
+}
+circle.leaf {
+  stroke: #fff;
+  stroke-width: 1.5px;
+ cursor: pointer;
+}
+path{
+	fill: none;
+}
+
+path.link_nomo {
+
+  color: #16d613;
+  stroke: #16d613;
+  stroke-opacity: 0.5;
+  stroke-width: 2;
+  cursor: pointer;
+}
+path.link_alert {
+
+	color: #e60000;
+	stroke: #e60000;
+	stroke-opacity: 0.7;
+	stroke-width: 5;
+	cursor: pointer;
+}
+path.link_over {
+  stroke: #F7FA06;
+  stroke-opacity: 0.5;
+  stroke-width: 8;
+  cursor: pointer;
+}
+path.link_spf_select {
+	
+	color: #e2440b;
+	stroke: #e2440b;
+	stroke-opacity: 0.7;
+	stroke-width: 7;
+	cursor: pointer;
+}
+path.link_spf_select_bk {
+
+  color: #bfb5b5;
+  stroke: #bfb5b5;
+  stroke-opacity: 0.7;
+  stroke-width: 7;
+  cursor: pointer;
+}
+path.blink {
+
+  color: #425ff4;
+  stroke: #425ff4;
+  stroke-opacity: 1;
+  stroke-width: 8;
+  cursor: pointer;
+}
+path.unselected {
+	stroke: #66ff00;
+	stroke-dasharray: 9;
+	stroke-opacity: 0.2;
+	stroke-width: 2;
+	
+	cursor: pointer;
+}
+
+path.selected {
+	stroke: #66ff00;
+	stroke-opacity: 1;
+	stroke-width: 4;
+	cursor: pointer;
+}
+
+path.spf_selected {
+	stroke: #ff6600;
+	stroke-opacity: 1;
+	stroke-width: 4;
+	cursor: pointer;
+}
+
+path.spf_unselected {
+	stroke: #33cc33;
+	stroke-opacity: 1;
+	stroke-width: 4;
+	cursor: pointer;
+}
+
+path.selected_alert {
+	stroke: #e60000;
+	stroke-opacity: 1;
+	stroke-width: 4;
+	cursor: pointer;
+}
+
+line.dasharray {
+	stroke-dasharray: 5;
+	stroke-opacity: 0.3;
+}
+
+text {
+  font: 12px sans-serif;
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+}
